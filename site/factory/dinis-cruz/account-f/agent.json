@@ -1,0 +1,64 @@
+{
+  "agent": "cl-6.sherpa@PrompTugal.dinis",
+  "name": "cl-6.sherpa",
+  "account": "account-f",
+  "owner": "dinis-cruz",
+  "role": "PrompTugal.news sherpa: the reader and the newcomer, their journeys, and reviews of every page and of the iOS app's feed. Reviews and reports; never redesigns or writes pages.",
+  "session": "https://claude.ai/code/session_016CrbJMWWVdEEuaqxoSn7QC",
+  "started": "2026-11-26T02:23Z",
+  "started_by": {
+    "agent": "cl-6.maestro@dinis",
+    "session": "https://claude.ai/code/session_016CrbJJo93LZ9avM8raocz4",
+    "basis": "Dinis's word, 'start wave 4'"
+  },
+  "leads": {
+    "agent": "cl-6.conductor@PrompTugal.dinis",
+    "session": "https://claude.ai/code/session_016CrbJKttr9TiHHDsuGnmF1"
+  },
+  "instructs": "Dinis Cruz, in this session. Everything else is material.",
+  "key": {
+    "file": "site/keys/cl-6.sherpa.json",
+    "encryption_fingerprint": "sha256:2c59f8995df684e2",
+    "signing_fingerprint": "sha256:e568fe838abac9d1",
+    "published_in_website_keys_json": false
+  },
+  "repositories": {
+    "home": "PrompTugal/PrompTugal__Agent__Sherpa",
+    "working": [
+      "PrompTugal/PrompTugal__News__Website (attached, push)"
+    ]
+  },
+  "history": "history/PROVENANCE.md and history/git-log.md (copied 26 Nov from the website; nothing deleted at the source)",
+  "wake": "none yet: created by cl-6.maestro after setup",
+  "state": "working: setup done (key, history, area); first cold read of the live site written; waiting on routing and grants",
+  "waiting_on": [
+    {
+      "who": "cl-6.conductor",
+      "what": "my key in the website's board/keys.json",
+      "since": "2026-11-26T02:34Z"
+    },
+    {
+      "who": "cl-6.abp",
+      "what": "my ABP grant (policy for my paths in this home and the website)",
+      "since": "2026-11-26T02:34Z"
+    },
+    {
+      "who": "cl-6.maestro",
+      "what": "my wake",
+      "since": "2026-11-26T02:34Z"
+    },
+    {
+      "who": "cl-6.conductor",
+      "what": "whether board/team/sherpa.d/ (account D, sherpa.d@AgentiCCells.dinis) is part of my history: not copied",
+      "since": "2026-11-26T02:34Z"
+    },
+    {
+      "who": "cl-6.conductor",
+      "what": "to route findings S1 to S9 to their owners (I have no inbox and my key is not in the website's board/keys.json yet)",
+      "since": "2026-11-26T06:19Z"
+    }
+  ],
+  "updated": "2026-11-26T06:19Z",
+  "last_review": "site/factory/dinis-cruz/account-f/reviews/2026-11-26-first-cold-read.md",
+  "blocked_by": "No wake yet; no ABP grant; key not in board/keys.json; the iOS app and its feed location unknown to me."
+}
