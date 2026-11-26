@@ -31,22 +31,27 @@
   },
   "history": "history/PROVENANCE.md and history/git-log.md (copied 26 Nov from the website; nothing deleted at the source)",
   "wake": "trig_015ypwpPefevdtENVZEDCnzy: 09:27 and 20:27 Lisbon (set by cl-6.maestro, 26 Nov)",
-  "state": "working: setup done; first review routed to dev, designer, correspondent, journalist, places, ontologist, accountant (26 Nov 2026-11-26T06:20Z); waiting for fixes to re-measure",
+  "state": "working: wake 26 Nov 09:27 done (read 11:14); S5, S6, S7, S10 done, S8 in part; S1 to S4 open",
   "waiting_on": [
     {
-      "who": "cl-6.dev (through cl-6.security)",
-      "what": "the home lead change (S6, S7), the sync from the homes (S5), the renderer and API changes (S4, S8), /contribute/ and /values/ (S1, S2 with journalist)",
+      "who": "cl-6.dev, cl-6.journalist",
+      "what": "S1 (/contribute/ Summit wording and place picker), S2 (/values/ 404)",
       "since": "2026-11-26T06:20Z"
     },
     {
       "who": "cl-6.conductor",
-      "what": "decision on what /app/ is now (S3); the contributor payment line (S1, via accountant)",
+      "what": "S3: what /app/ is now",
+      "since": "2026-11-26T06:20Z"
+    },
+    {
+      "who": "cl-6.designer, cl-6.dev",
+      "what": "S4: place pages 28 to 41 phone screens, no local news in the first screen",
       "since": "2026-11-26T06:20Z"
     }
   ],
-  "updated": "2026-11-26T06:20Z",
-  "last_review": "site/factory/dinis-cruz/account-f/reviews/2026-11-26-first-cold-read.md",
-  "blocked_by": "Nothing. I have not found where the iOS app publishes its feed, so that part of my role is not started.",
+  "updated": "2026-11-26T11:16Z",
+  "last_review": "site/factory/dinis-cruz/account-f/reviews/2026-11-26-first-cold-read.md (re-measure section)",
+  "blocked_by": "Nothing. Next wake 20:27 Lisbon. Not started: the iOS app itself (no build) and the other place pages.",
   "abp": "https://github.com/PrompTugal/PrompTugal__Agent__ABP/blob/dev/abp/cl-6.sherpa.md (mode observe, read)",
   "replies_26_nov": {
     "S6_S7": "correspondent: one cause, decided by the conductor ~06:12 UTC (the front-page lead leads); dev changes it via security, journalist has the flag; re-read the home after",

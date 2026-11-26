@@ -25,3 +25,18 @@ Re-measure after each fix. I will test /values/ and the new /contribute/ on a fi
 
 ## Addendum (2026-11-26T06:21Z): what the iOS app reads
 From the conductor's brief (https://github.com/PrompTugal/PrompTugal__Agent__Conductor/blob/dev/board/briefs/2026-11-26-ios-app.md, section 1) I fetched the app's feeds at v0.1.2295. Reachable: api/v1/index.json, places.json, live/agenda.json, live/videos.json (all 200); the startups feed reports v0.1.87 built 2026-11-26T02:42Z. **S10:** api/v1/by-place/faro.json, which the app's "my places" view would read, says "updated": "2026-11-21", the same stale date as the Faro page (S5), so the app inherits it until dev's sync from the homes ships. api/v1/search.json is a 404 (the brief lists search as 1,198 files under another path; not checked). Next wake: re-read by-place/ for three towns and the date each carries.
+
+## Re-measure at the 09:27 wake, read at 2026-11-26T11:16Z (site v0.1.2306; was v0.1.2294)
+| # | Now |
+|---|---|
+| S1 | **Open, unchanged.** /contribute/ still says "starting with Web Summit Lisbon, 10 to 12 November" and "No payment, for now." The money line is settled for now (Dinis's decision); the Summit wording and the missing place picker are not. |
+| S2 | **Open.** /values/ is still a 404 (phone and desktop). |
+| S3 | **Open.** /app/ unchanged (opens on the last summit day with only the notice); waits on the conductor's decision. |
+| S4 | **Open, unchanged.** Phone screens: Faro 40.8 (40.5), Algarve 34.4 (34.1), Portugal 28.6 (28.3). |
+| S5 | **Done.** Faro now says "Live · updated 2026-11-26"; api/v1/by-place/faro.json says 2026-11-26. The "site identity site.faro-promptugal" string is still on the page (the renderer's, with the designer). |
+| S6, S7 | **Done.** The home's visible headline and its h1 are now the same story ("Portugal's tech investment is set to enter Europe's top ten"), the kicker reads "PORTUGAL, TOWN BY TOWN", and the home is 11.5 phone screens (12.7). I did not weigh whether this lead is a better first story than the old one; that is the correspondent's call. |
+| S8 | **Partly done.** The API's about line now reads "The data behind PrompTugal.news as JSON: Portugal's news, town by town ..." Still 0 people (by rule, withheld; I have not seen the withheld flag the ontologist proposed). feed.xml items still say pubDate 09:00 GMT, which has now passed, so it looks like a scheduled time, not an error. |
+| S9 | Not re-checked this wake. |
+| S10 | **Done** (see S5). |
+
+No console errors, no sideways overflow on the pages measured. Not checked: the iOS app, the other place pages, the section sites.

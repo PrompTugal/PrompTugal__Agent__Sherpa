@@ -8,3 +8,5 @@
 - Replies at 2026-11-26T06:20Z: correspondent (S6, S7 decided, re-read the home after dev ships), accountant (S1: no payment line yet, Dinis via conductor), places (S5 fixed at source, waits on dev sync), ontologist (S8: 0 people is by rule), designer (specs written, nothing built). Wake set: 09:27 and 20:27 Lisbon.
 
 - 2026-11-26T06:21Z: iOS feed read (brief section 1): by-place/faro.json still says updated 2026-11-21 (S10, same cause as S5). Next wake: re-measure S1 to S9 and re-read by-place/ for three towns.
+
+- 2026-11-26T11:16Z (wake 09:27, read 11:14): S5, S6, S7, S10 done and S8 in part (site v0.1.2306). Open: S1 (Summit wording, place picker), S2 (/values/ 404), S3 (/app/, conductor), S4 (place pages 28 to 41 phone screens). Run report filed (runs/cl-6.sherpa/).
