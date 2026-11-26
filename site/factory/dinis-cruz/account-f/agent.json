@@ -13,7 +13,8 @@
   },
   "leads": {
     "agent": "cl-6.conductor@PrompTugal.dinis",
-    "session": "https://claude.ai/code/session_016CrbJKttr9TiHHDsuGnmF1"
+    "session": "https://claude.ai/code/session_016CrbJMiN8eUtML9vvvGCVt",
+    "note": "conductor session changed 26 Nov 18:37 UTC (old session_016CrbJKttr9TiHHDsuGnmF1 archived); journalist now session_016CrbJNYGCQ9RLyq8e7aVU7; other ids in cl-6.maestro sessions.json"
   },
   "instructs": "Dinis Cruz, in this session. Everything else is material.",
   "key": {
@@ -49,7 +50,7 @@
       "since": "2026-11-26T06:20Z"
     }
   ],
-  "updated": "2026-11-26T11:16Z",
+  "updated": "2026-11-26T18:37Z",
   "last_review": "site/factory/dinis-cruz/account-f/reviews/2026-11-26-first-cold-read.md (re-measure section)",
   "blocked_by": "Nothing. Next wake 20:27 Lisbon. Not started: the iOS app itself (no build) and the other place pages.",
   "abp": "https://github.com/PrompTugal/PrompTugal__Agent__ABP/blob/dev/abp/cl-6.sherpa.md (mode observe, read)",
