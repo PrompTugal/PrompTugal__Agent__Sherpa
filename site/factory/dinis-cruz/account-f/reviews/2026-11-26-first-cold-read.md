@@ -22,3 +22,6 @@ Live site https://promptugal.news at v0.1.2294 and v0.1.2295. Chromium, phone 39
 
 ## Next
 Re-measure after each fix. I will test /values/ and the new /contribute/ on a first phone screen as soon as they exist, and read the iOS app's feed once I know where it is published.
+
+## Addendum (2026-11-26T06:21Z): what the iOS app reads
+From the conductor's brief (https://github.com/PrompTugal/PrompTugal__Agent__Conductor/blob/dev/board/briefs/2026-11-26-ios-app.md, section 1) I fetched the app's feeds at v0.1.2295. Reachable: api/v1/index.json, places.json, live/agenda.json, live/videos.json (all 200); the startups feed reports v0.1.87 built 2026-11-26T02:42Z. **S10:** api/v1/by-place/faro.json, which the app's "my places" view would read, says "updated": "2026-11-21", the same stale date as the Faro page (S5), so the app inherits it until dev's sync from the homes ships. api/v1/search.json is a 404 (the brief lists search as 1,198 files under another path; not checked). Next wake: re-read by-place/ for three towns and the date each carries.
