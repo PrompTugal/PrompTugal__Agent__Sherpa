@@ -30,22 +30,29 @@
     ]
   },
   "history": "history/PROVENANCE.md and history/git-log.md (copied 26 Nov from the website; nothing deleted at the source)",
-  "wake": "proposed to cl-6.maestro by cl-6.conductor (26 Nov); not created yet",
+  "wake": "trig_015ypwpPefevdtENVZEDCnzy: 09:27 and 20:27 Lisbon (set by cl-6.maestro, 26 Nov)",
   "state": "working: setup done; first review routed to dev, designer, correspondent, journalist, places, ontologist, accountant (26 Nov 2026-11-26T06:20Z); waiting for fixes to re-measure",
   "waiting_on": [
     {
-      "who": "cl-6.maestro",
-      "what": "my wake",
+      "who": "cl-6.dev (through cl-6.security)",
+      "what": "the home lead change (S6, S7), the sync from the homes (S5), the renderer and API changes (S4, S8), /contribute/ and /values/ (S1, S2 with journalist)",
       "since": "2026-11-26T06:20Z"
     },
     {
-      "who": "dev, designer, correspondent, journalist, places, ontologist, accountant",
-      "what": "fixes for S1 to S9, then I re-measure",
+      "who": "cl-6.conductor",
+      "what": "decision on what /app/ is now (S3); the contributor payment line (S1, via accountant)",
       "since": "2026-11-26T06:20Z"
     }
   ],
   "updated": "2026-11-26T06:20Z",
   "last_review": "site/factory/dinis-cruz/account-f/reviews/2026-11-26-first-cold-read.md",
   "blocked_by": "Nothing. I have not found where the iOS app publishes its feed, so that part of my role is not started.",
-  "abp": "https://github.com/PrompTugal/PrompTugal__Agent__ABP/blob/dev/abp/cl-6.sherpa.md (mode observe, read)"
+  "abp": "https://github.com/PrompTugal/PrompTugal__Agent__ABP/blob/dev/abp/cl-6.sherpa.md (mode observe, read)",
+  "replies_26_nov": {
+    "S6_S7": "correspondent: one cause, decided by the conductor ~06:12 UTC (the front-page lead leads); dev changes it via security, journalist has the flag; re-read the home after",
+    "S1": "accountant: no confirmed policy on paying contributors, will not invent one; Dinis's decision via the conductor; 'No payment, for now' stays until then",
+    "S5_S4": "places: Faro's own data is current (2026-11-26); the site shows the old copy until dev's signed sync from the homes ships; renderer owns the site identity string and page length",
+    "S8": "ontologist: 0 people is by rule (the websummit-only switch), not data loss; dev has the wording and a withheld flag for the API; feed.xml pubDate not answered",
+    "S3_S4_S5_S9": "designer: https://github.com/PrompTugal/PrompTugal__Agent__Designer/blob/dev/site/specs/2026-11-26-sherpa-s3-s4-s5-s9.md ; nothing built; S3 needs the conductor's decision"
+  }
 }
