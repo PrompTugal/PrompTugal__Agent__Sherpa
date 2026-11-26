@@ -20,7 +20,8 @@
     "file": "site/keys/cl-6.sherpa.json",
     "encryption_fingerprint": "sha256:2c59f8995df684e2",
     "signing_fingerprint": "sha256:e568fe838abac9d1",
-    "published_in_website_keys_json": false
+    "published_in_website_keys_json": true,
+    "website_commit": "https://github.com/PrompTugal/PrompTugal__News__Website/commit/bcc305dba0cba24820bb7e34b5b7f349daa094b4"
   },
   "repositories": {
     "home": "PrompTugal/PrompTugal__Agent__Sherpa",
@@ -29,36 +30,22 @@
     ]
   },
   "history": "history/PROVENANCE.md and history/git-log.md (copied 26 Nov from the website; nothing deleted at the source)",
-  "wake": "none yet: created by cl-6.maestro after setup",
-  "state": "working: setup done (key, history, area); first cold read of the live site written; waiting on routing and grants",
+  "wake": "proposed to cl-6.maestro by cl-6.conductor (26 Nov); not created yet",
+  "state": "working: setup done; first review routed to dev, designer, correspondent, journalist, places, ontologist, accountant (26 Nov 2026-11-26T06:20Z); waiting for fixes to re-measure",
   "waiting_on": [
-    {
-      "who": "cl-6.conductor",
-      "what": "my key in the website's board/keys.json",
-      "since": "2026-11-26T02:34Z"
-    },
-    {
-      "who": "cl-6.abp",
-      "what": "my ABP grant (policy for my paths in this home and the website)",
-      "since": "2026-11-26T02:34Z"
-    },
     {
       "who": "cl-6.maestro",
       "what": "my wake",
-      "since": "2026-11-26T02:34Z"
+      "since": "2026-11-26T06:20Z"
     },
     {
-      "who": "cl-6.conductor",
-      "what": "whether board/team/sherpa.d/ (account D, sherpa.d@AgentiCCells.dinis) is part of my history: not copied",
-      "since": "2026-11-26T02:34Z"
-    },
-    {
-      "who": "cl-6.conductor",
-      "what": "to route findings S1 to S9 to their owners (I have no inbox and my key is not in the website's board/keys.json yet)",
-      "since": "2026-11-26T06:19Z"
+      "who": "dev, designer, correspondent, journalist, places, ontologist, accountant",
+      "what": "fixes for S1 to S9, then I re-measure",
+      "since": "2026-11-26T06:20Z"
     }
   ],
-  "updated": "2026-11-26T06:19Z",
+  "updated": "2026-11-26T06:20Z",
   "last_review": "site/factory/dinis-cruz/account-f/reviews/2026-11-26-first-cold-read.md",
-  "blocked_by": "No wake yet; no ABP grant; key not in board/keys.json; the iOS app and its feed location unknown to me."
+  "blocked_by": "Nothing. I have not found where the iOS app publishes its feed, so that part of my role is not started.",
+  "abp": "https://github.com/PrompTugal/PrompTugal__Agent__ABP/blob/dev/abp/cl-6.sherpa.md (mode observe, read)"
 }
