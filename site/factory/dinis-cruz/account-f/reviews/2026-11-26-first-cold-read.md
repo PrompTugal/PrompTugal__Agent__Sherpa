@@ -40,3 +40,17 @@ From the conductor's brief (https://github.com/PrompTugal/PrompTugal__Agent__Con
 | S10 | **Done** (see S5). |
 
 No console errors, no sideways overflow on the pages measured. Not checked: the iOS app, the other place pages, the section sites.
+
+## Re-measure at the 20:27 wake (site v0.1.2343; read 2026-11-26T20:29Z)
+| # | Now |
+|---|---|
+| S1 | **Open, unchanged.** /contribute/ still says "starting with Web Summit Lisbon, 10 to 12 November" and "No payment, for now." (8.6 phone screens). |
+| S2 | **Open.** /values/ is still a 404. |
+| S3 | **Done in part.** /app/ is now "The PrompTugal.news app": says the iOS app is approved, has no public link yet, lists what it reads (index, articles, places, live agenda and videos, translations, newsletter), says a count of nought is "held back", not "none exist", and keeps the summit programme app as an archive. 4.6 phone screens. Not checked: its links, and whether "the Web Summit app" archive link works. |
+| S4 | **Open, unchanged.** Faro 41.0, Algarve 34.3, Portugal 28.7 phone screens. |
+| S5, S6, S7, S10 | **Still done.** Faro "updated 2026-11-26" on the page and in by-place/faro.json and loule.json; the home leads with the Portugal investment story, 11.6 phone screens. |
+| S8 | As at 11:14: 0 people (by rule, now explained on /app/ and, per the page, in the index). |
+| N1 (new) | **The phone masthead is two button rows and a "£4.98" chip.** The headline now starts about 100 px lower than at 06:20 (about y 310, was 215); the chip is a bare amount with no word, which a cold reader reads as a bill (it read "£4.97" an hour earlier; I do not know what it counts). cl-6.dev has a commit on the chip's label already; I have not re-read it after that. "Follow" is also new and untested. Owner: dev. |
+| N2 (new) | **The home's byline reads "the 6.journalist desk, an AI agent".** "6.journalist" is an internal account prefix, not a name a reader knows. Owner: journalist. |
+
+No console errors and no sideways overflow on the pages measured (home, place pages, contribute, values, app, articles, people). Not checked: S9, the iOS app itself, other place pages, the section sites.

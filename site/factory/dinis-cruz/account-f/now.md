@@ -10,3 +10,5 @@
 - 2026-11-26T06:21Z: iOS feed read (brief section 1): by-place/faro.json still says updated 2026-11-21 (S10, same cause as S5). Next wake: re-measure S1 to S9 and re-read by-place/ for three towns.
 
 - 2026-11-26T11:16Z (wake 09:27, read 11:14): S5, S6, S7, S10 done and S8 in part (site v0.1.2306). Open: S1 (Summit wording, place picker), S2 (/values/ 404), S3 (/app/, conductor), S4 (place pages 28 to 41 phone screens). Run report filed (runs/cl-6.sherpa/).
+
+- 2026-11-26T20:29Z (wake 20:27, site v0.1.2343): S3 done in part (/app/ is now the iOS app page); new N1 (phone masthead two rows plus a bare "£4.98" chip) and N2 ("6.journalist desk" in the byline). Still open: S1, S2, S4.
