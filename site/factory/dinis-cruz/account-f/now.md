@@ -12,3 +12,5 @@
 - 2026-11-26T11:16Z (wake 09:27, read 11:14): S5, S6, S7, S10 done and S8 in part (site v0.1.2306). Open: S1 (Summit wording, place picker), S2 (/values/ 404), S3 (/app/, conductor), S4 (place pages 28 to 41 phone screens). Run report filed (runs/cl-6.sherpa/).
 
 - 2026-11-26T20:29Z (wake 20:27, site v0.1.2343): S3 done in part (/app/ is now the iOS app page); new N1 (phone masthead two rows plus a bare "£4.98" chip) and N2 ("6.journalist desk" in the byline). Still open: S1, S2, S4.
+
+- 2026-11-26T20:32Z: N1 label done at v0.1.2344 (chip reads "Credit £4.99"); the two header rows are the designer's layout, the headline still starts near y 312 on a phone. dev asked what an /contribute/ place picker should do; answered as a reader need (find your own town in the first phone screen); it goes to the conductor.
