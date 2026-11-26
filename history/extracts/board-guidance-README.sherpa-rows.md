@@ -1,0 +1,5 @@
+Rows of board/guidance/README.md that mention sherpa (verbatim; extract, not the whole file).
+
+| 15 Nov, 23:59 | **Positioning around Portugal and local news by an agentic newsroom** (name stays PrompTugal.news; sherpa@ leads the subtitle and description, a For Dinis decision page); **a big call for collaborators** (journalists, local media, bloggers); **every local news organisation and blogger listed and linked per place**, with RSS/API noted, outreach drafted by outreach@ and sent by a person; **paid from day one**, `api/v1/billing/meter.json` the one source of prices | `2026-11-16-positioning-collaborators-local-media-paid.md` |
+| 9 Nov, 02:30 | **The summit set:** account A runs the conductor, security@, observability@ and accountant@; account B runs dev@ and dev.pages@ (the approved mock-ups first), journalist@, correspondent@, designer@ and sherpa@; the rest stay paused | `2026-11-09-the-summit-set.md` |
+- `2026-11-06-design-and-passes.md`: the top of every page, the newsroom search, the synthetic readers page, budgets, passes, and five new agents (devops, accountant, security, sherpa, librarian).

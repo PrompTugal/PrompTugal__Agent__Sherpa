@@ -1,0 +1,20 @@
+[
+ {
+  "agent": "sherpa@PrompTugal.dinis",
+  "minute": 29,
+  "cron": "29 */3 * * *",
+  "trigger": "trig_01Y7Be137phyqckGcv4AW8AF",
+  "state": "disabled",
+  "since": "2026-11-06T03:45Z",
+  "note": "every three hours (Dinis: some agents can run slower) Disabled 21:23 UTC 6 Nov at Dinis's word: final hand-over, then moves to account B (board/the-account-move.md)."
+ },
+ {
+  "agent": "sherpa@PrompTugal.dinis",
+  "minute": 29,
+  "cron": "29 */3 * * *",
+  "trigger": "trig_01UasQn6f62gr8nLnBmVG89z",
+  "state": "enabled",
+  "since": "2026-11-06T22:50Z",
+  "note": "account B, started by conductor.b@ at Dinis's word ('accelerate and fire up everything here'); session session_01Kw9UwBoVfeDFocNhLzBz78 Dinis, 16 Nov 01:20 UTC: everything in account A; this account B task should not run. To be disabled on account B by Dinis (the conductor on account A cannot reach it)."
+ }
+]

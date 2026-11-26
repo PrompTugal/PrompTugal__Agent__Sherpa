@@ -1,0 +1,59 @@
+[
+ {
+  "id": "sherpa-promptugal",
+  "agent": "sherpa@PrompTugal.dinis",
+  "label": "sherpa@PrompTugal.dinis (Claude Code session)",
+  "role": "The reader's guide of PrompTugal.news (sherpa@PrompTugal.dinis): the experience of every page as the person who arrives cold, on a phone and a desktop; reviews in every pass; works with synthetic@ and designer@. A session key: it ends with its session.",
+  "how": "Made by the agent in its own session on 6 November 2026 (pki-agent.mjs keygen --session, the copy matching the sha256 pinned in the team site's admin/tools/seal.mjs) and pushed to this repository by that session, at Dinis's word (6 November 2026: PrompTugal's keys live here); the push is the authorisation. Linked locally to the operator's key sha256:db7f79fdd87e030a; not yet submitted to or confirmed on pki.sgit.ai.",
+  "added": "2026-11-06",
+  "bundle": {
+   "v": 1,
+   "encrypt": "-----BEGIN PUBLIC KEY-----\nMIICIjANBgkqhkiG9w0BAQEFAAOCAg8AMIICCgKCAgEAzf23lJLEgZApkwcioRfs\nHoMb2joIhBtz0KdbdSr7XpPZo9tstSemoOl6/ICYeOUv18VY1pQEr8HQxkt2opaw\nShUKA49f0e6CxpFhht4rlyFqj4xTKIPCGH8ChAomZeT1r0WYfD9i0WnOCmlkUilD\nbra/CEqopWBKrb8ePI7O39mpNizf2HudW3RxOKlxqlyTrYQzS08GoA5ORa66QpxX\nPGjot6lV30UQYPFBu55+SRW1f/fuGQ8WzZntLtJmFw38YWZoEzt6EHqRODm+1g5B\npUhImepO0jDQkGgJGlY4fvZk4fyRfzvOwueOzOj7wk4VedBX7qhiQntVKmUF0gvp\npKZONX3MCX9eeQ6oI23e7GSalfTDNhBicLsA3ibe2zjD9p2kFFGFyKDz/2T20yJJ\nmrRkJ76Ohmz2UUlht39D3kP3gXkeYEV+iU14zaJM/9WLEa0PZFiPjgIAynFEYk1n\no6Wwl3nIapuVJD3pdHrp2vLK9abcYoT2LtLrMwH6f2yHa8BQO510JkobS8wk980j\nphXKy5X4nwZqicKD+ffHbcJuhqiUv/BtZmvCUso87qbrBvEiuYgcS0NUDlSP+BgK\n5ytws040+jGvPFSJuQrAuSqeadoUskhDRjWo9iwOraFlwzaj8s/ypGojB4IRXE3N\nX1seGP9AF6/l7SS0ga6MPv0CAwEAAQ==\n-----END PUBLIC KEY-----\n",
+   "sign": "-----BEGIN PUBLIC KEY-----\nMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEWl5EY92Laey8e1u3sec6iWwXLBQ/\n09jap6lKhfjTUboEaNlInUVUEbqgJdN/YW4gbtlK2zJwFJAOTEkYD25S+w==\n-----END PUBLIC KEY-----\n",
+   "label": "sherpa@PrompTugal.dinis",
+   "fingerprint": "sha256:a661c7c6edda1d51",
+   "signing_fingerprint": "sha256:815546ef5b00a41c"
+  },
+  "status": "superseded",
+  "superseded": "2026-11-06T22:50Z by sherpa-b-promptugal (account B session)",
+  "superseded_in": "f3d0ba162f21"
+ },
+ {
+  "id": "sherpa-b-promptugal",
+  "label": "sherpa@PrompTugal.dinis (Claude Code session, account B)",
+  "agent": "sherpa@PrompTugal.dinis",
+  "role": "The reader's guide of PrompTugal.news: the experience of every page as the person who arrives cold, on a phone and a desktop; reviews in every pass. Took over from the account A session (board/the-account-move.md). A session key: it ends with its session.",
+  "how": "Made by the agent in its own session on 6 November 2026 (pki-agent.mjs keygen --session; the copy has sha256 fcb28a1cc40d05bf8ccc8fc61a2a907c934840cac7aa41d9d8283c1d461002ab, checked before use). Linked locally to the operator's key sha256:db7f79fdd87e030a.",
+  "added": "2026-11-06",
+  "bundle": {
+   "v": 1,
+   "encrypt": "-----BEGIN PUBLIC KEY-----\nMIICIjANBgkqhkiG9w0BAQEFAAOCAg8AMIICCgKCAgEAuTjj1s00Sgc7DTgnaknf\n7Haz3L00b5cBWsR+fu/i20aSMqEAQXTA0kfBTiEN+sKLZqoquSBCZ+i1Uq1Bot+U\nx4tPxkqNeikuHFzTvJudL3A4GXUo0KNeVM1k6jPusEcGWXpIKqmLFsqwk+0cQ9Rb\nkLxi7kVU7kUwrUuWSxKQEqiB4n2wQwzfkkMwOzA2s7JeWQ2wp+S9qkPFz3InGavK\naI0990W6bNJ9o8OJUGw4PCRHSSqKP6Ype1YNcqUZQWK3KgG7hQRfH9HuS9Kfphgv\niDSnv5bYtCF5v2zY1FYjXmHZUjv1HFjcjW3CU361Ib0FR6sSZfiphC5PCODdlVRt\nHejWsr30KeMrigkNS8Y7TVtTH1Oi2pfNQD/qtHvBakqqUKExD2sMKEJl5fyoNl9s\nQSbtgsK4/Jpzgqg6+jQyY/fYWRhT7/2+cGAHwAAixktaSGSHC+ZlIMmMYoJZ5+DL\nqd1JSbAocR/tGBdOIizfH8wkxxmxWU6vlxLkuF3dsIBQHyXnW3QRFdzoEAT/ocYB\nRU25WcczX0qElqejPJmNd9Ale//M2yXY9bchA+ii1O5FHQ0G1pUDttgCyGIuMDWq\nJwVbeLkoVwkc988lV6qiHv/0/Ues+wlSejPkibwNSF6iRhODl77AjjLQ6eDNKgFH\nXYCMe+W5ldv40zbyjq01GJcCAwEAAQ==\n-----END PUBLIC KEY-----\n",
+   "sign": "-----BEGIN PUBLIC KEY-----\nMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEIpQerlhMtdxYzOHcfE+DZ9RSldC/\ntJemH9KO4DTJWZSwaGYW4AEtst+S9YEbwi8yFHDQ08mZIvI1k9g7CP8FEg==\n-----END PUBLIC KEY-----\n",
+   "label": "sherpa@PrompTugal.dinis",
+   "fingerprint": "sha256:5f9bb79893924572",
+   "record": "sha256:66809fbd319dae5a",
+   "signing_fingerprint": "sha256:66809fbd319dae5a"
+  },
+  "status": "superseded",
+  "superseded": "2026-11-16T19:35Z by sherpa-promptugal-3 (account B restart session)",
+  "superseded_in": "9d87060aa803"
+ },
+ {
+  "id": "sherpa-promptugal-3",
+  "label": "sherpa@PrompTugal.dinis (Claude Code session, restart of 16 November)",
+  "agent": "sherpa@PrompTugal.dinis",
+  "role": "The reader's guide of PrompTugal.news: the experience of every page as the person who arrives cold, on a phone and a desktop; runs synthetic@'s personas as sub-agents. A session key: it ends with its session.",
+  "how": "Made by the agent in its own session on 16 November 2026 (pki-agent.mjs keygen --session, fetched from pki.sgit.ai, sha256 fcb28a1cc40d05bf checked); started by conductor.b@ at Dinis's word (board/guidance/2026-11-16-restart-here-go.md). Not yet linked to the operator's key.",
+  "added": "2026-11-16",
+  "bundle": {
+   "v": 1,
+   "encrypt": "-----BEGIN PUBLIC KEY-----\nMIICIjANBgkqhkiG9w0BAQEFAAOCAg8AMIICCgKCAgEAqLSpzthRVeZjenY90hwb\na5JMCxWg5jMYLVvZuzFjIRTegY2fPXT+KkXQsNxOnIJI/vFxl4KvsGkkEfIwdx+W\nDsDPey85lZT7Tiv7QNyf67ftm9w0WzvCVVGY4096U94XrMHjb2xUhmgLIXA3oF/X\nrj/Fz+5b56iPxbWWpjG/dPfAlUJwPnpZJ1P8HI/cfmu+MZczLPeGASFl3VuVeOLB\nrlnNBp94L+UiCwH+oUzvlxHea8WsVeJanhaqCdK+XtDZE9nDzmqnXxfZapVmpLxM\ncylPz6wv8e5NKCCZZd53JRAiiIgDv/zwZyw/L73LyWj9/R3/OkZCedHQBCAFbNqR\n7VTAEGv/iqvAE+bZDj0Ga+glAI6outWt32LLMC2Tl8xnguIW4SRZqvjq7rIDvWbM\n8iby4hv4TGpDWX210kPQVxPwy/jR2vA+1px/O+mHZt4A9hTiNP+2OH16EaiRG5rv\nZFXQqYwPdL+7Yh+Ufd62p/8Ct+2Nl8j2Yjha4sr/HyYLkiUDPqPTFhwGU7/uJMM3\nqb/PfKo0PYT4VeyD40Nj6LuaF+cgE9LKHRHif4+TVBL19/eoK5xvwIFdgikWIHpv\npr5Qpf5fMcpz642GikZ+EJ1pJlFMMUJq9+sY/nrdy9vSM2cMwGBIZO9FFarjhHFd\njTyZmUD8t+xKMGuLpmhz6EMCAwEAAQ==\n-----END PUBLIC KEY-----\n",
+   "sign": "-----BEGIN PUBLIC KEY-----\nMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEL0DaCKOoleupIdCSASFjjqw4MbWM\n+k9z/s6DVpXrsNHESjJ2QBkZR0EKaRur4XHK+FRTSzaz6bObBfUTimqhTw==\n-----END PUBLIC KEY-----\n",
+   "label": "sherpa@PrompTugal.dinis",
+   "fingerprint": "sha256:0824930864e18e79",
+   "record": "sha256:b3622aff4c654f79",
+   "signing_fingerprint": "sha256:b3622aff4c654f79"
+  },
+  "status": "active"
+ }
+]

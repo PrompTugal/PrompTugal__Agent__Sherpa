@@ -1,0 +1,464 @@
+# Git log of every commit that touched these paths
+
+Repository PrompTugal/PrompTugal__News__Website, branch dev. 128 commits, newest first. Each line: commit link, UTC committer date, author, subject, then the files (A added, M modified, D deleted, R renamed).
+
+- [ed328db990](https://github.com/PrompTugal/PrompTugal__News__Website/commit/ed328db990a930111998064a051d797bcef15f2b) 2026-11-24T00:16:10+00:00 Claude: abp@PrompTugal.dinis: R8 breach by abp@ itself (printed the environment), hook now catches export with only flags; a first shape for browser ABPs; policy v1.20.1
+  - `M	board/abp/sherpa.md`
+- [6f0b4a889a](https://github.com/PrompTugal/PrompTugal__News__Website/commit/6f0b4a889a3ee626b7b8c9e8bc88fbdbb9c760bd) 2026-11-23T23:26:38+00:00 Claude: abp@PrompTugal.dinis: review of the account E kit (maestro.e), draft maestro.e ABP, onboarding grants for decisions.d and strategy.d; policy v1.20.0
+  - `M	board/abp/sherpa.md`
+- [05c3d36d99](https://github.com/PrompTugal/PrompTugal__News__Website/commit/05c3d36d99a4cf31cdfcab2c609009aa304d9844) 2026-11-21T09:40:18+00:00 Claude: abp@PrompTugal.dinis: 09:40 wake: maestro.b@'s 40 trigger updates are Dinis's ordered slow-down; scope widened (v1.19.2); debrief caught up
+  - `M	board/abp/sherpa.md`
+- [c693131a3f](https://github.com/PrompTugal/PrompTugal__News__Website/commit/c693131a3fed8964dce8471988debecbb1a50b48) 2026-11-21T09:30:47+00:00 Claude: telemetry.b@PrompTugal.dinis: wake 09:26 (21 Nov), costs refreshed for 36 sessions, debrief
+  - `A	board/runs/stats/sherpa/2026-11-21.json`
+- [1554179136](https://github.com/PrompTugal/PrompTugal__News__Website/commit/1554179136491252015db8a60160c34b5a027aea) 2026-11-20T20:39:24+00:00 Claude: abp@PrompTugal.dinis: 20:39 wake: quiet; R16 follows security@'s 19:24 ruling on the web-flow key file; policy v1.19.1
+  - `M	board/abp/sherpa.md`
+- [8409ee6005](https://github.com/PrompTugal/PrompTugal__News__Website/commit/8409ee600593ba4933a3829b311ff6dcf7472b4f) 2026-11-20T20:28:25+00:00 Claude: telemetry.b@PrompTugal.dinis: wake 20:26 (20 Nov), costs refreshed for 36 sessions
+  - `M	board/runs/stats/sherpa/2026-11-20.json`
+- [ac7a07904c](https://github.com/PrompTugal/PrompTugal__News__Website/commit/ac7a07904c795562a37d71acac4928cdda72c1af) 2026-11-20T10:14:53+00:00 Claude: abp@PrompTugal.dinis: Dinis's word of 20 Nov: Gmail drafts for live.b@, sessions by domain, messages for all, observed work added, six onboarding grants, repo map; policy v1.19.0
+  - `M	board/abp/sherpa.md`
+- [19a10cb02a](https://github.com/PrompTugal/PrompTugal__News__Website/commit/19a10cb02a203c6a0498ad2e5b09081c8afdc1e8) 2026-11-20T09:39:41+00:00 Claude: abp@PrompTugal.dinis: 09:39 wake: R16 follows security@'s ruling on web-flow merges (PR model); policy v1.18.8; Vicky's reviewer publishing again, ask stands
+  - `M	board/abp/sherpa.md`
+- [79a4c5e9ee](https://github.com/PrompTugal/PrompTugal__News__Website/commit/79a4c5e9ee9a0d5d69f7ce5f0b63d4987468d956) 2026-11-20T09:30:41+00:00 Claude: telemetry.b@PrompTugal.dinis: wake 09:26 (20 Nov), costs refreshed for 36 sessions, debrief
+  - `A	board/runs/stats/sherpa/2026-11-20.json`
+- [b2e463d9b1](https://github.com/PrompTugal/PrompTugal__News__Website/commit/b2e463d9b1b9a9d7b976321d17feeda62268410f) 2026-11-19T20:38:41+00:00 Claude: abp@PrompTugal.dinis: 20:38 wake: R16 follows security@'s ruling to 19:47 (controls 8 to 10); hand-over debrief; policy v1.18.7
+  - `M	board/abp/sherpa.md`
+- [094df80b03](https://github.com/PrompTugal/PrompTugal__News__Website/commit/094df80b0368116a6560394742d26a2a379f4172) 2026-11-19T20:28:33+00:00 Claude: telemetry.b@PrompTugal.dinis: wake 20:26, costs refreshed for 36 sessions
+  - `M	board/runs/stats/sherpa/2026-11-19.json`
+- [5cce9d7417](https://github.com/PrompTugal/PrompTugal__News__Website/commit/5cce9d7417f50129a7b0c4361186ff9e45576b85) 2026-11-19T16:27:56+00:00 Claude: telemetry.b@PrompTugal.dinis: wake 16:26, costs refreshed for 36 sessions
+  - `M	board/runs/stats/sherpa/2026-11-19.json`
+- [cfd2f45bbc](https://github.com/PrompTugal/PrompTugal__News__Website/commit/cfd2f45bbc1bea497b1d461fafbb75f7d331cc3e) 2026-11-19T15:27:44+00:00 Claude: telemetry.b@PrompTugal.dinis: wake 15:26, costs refreshed for 36 sessions
+  - `M	board/runs/stats/sherpa/2026-11-19.json`
+- [c02164fe3f](https://github.com/PrompTugal/PrompTugal__News__Website/commit/c02164fe3f8f59603771fde7f28368ea9302721e) 2026-11-19T14:39:41+00:00 Claude: abp@PrompTugal.dinis: 14:38 wake, hourly report; R16 follows security@'s ruling file to 14:32 (run head_sha anchor, artifact handling); policy v1.18.6
+  - `M	board/abp/sherpa.md`
+- [475dbbf43a](https://github.com/PrompTugal/PrompTugal__News__Website/commit/475dbbf43a2f9c40f0725124a7775c08363473eb) 2026-11-19T14:27:39+00:00 Claude: telemetry.b@PrompTugal.dinis: wake 14:26, costs refreshed for 36 sessions
+  - `M	board/runs/stats/sherpa/2026-11-19.json`
+- [d7334425c0](https://github.com/PrompTugal/PrompTugal__News__Website/commit/d7334425c0cce09314c39fcf451042819252677f) 2026-11-19T14:25:41+00:00 Claude: abp@PrompTugal.dinis: R16 gets control 9 and the widened anchor from security@'s 14:17 and 14:20 rulings; policy v1.18.5
+  - `M	board/abp/sherpa.md`
+- [d67b7e42c0](https://github.com/PrompTugal/PrompTugal__News__Website/commit/d67b7e42c0198404e09a578f4013d3a4f7eaab58) 2026-11-19T14:21:32+00:00 Claude: abp@PrompTugal.dinis: R16 control 7 follows security@'s 14:12 ruling (anchor A from the last verified deployment, range A..AFTER); policy v1.18.4
+  - `M	board/abp/sherpa.md`
+- [b9a4cb20d3](https://github.com/PrompTugal/PrompTugal__News__Website/commit/b9a4cb20d38ada775b9188f10e58d46785dfaadc) 2026-11-19T14:19:37+00:00 Claude: abp@PrompTugal.dinis: R16 controls 6 to 8 really applied (policy v1.18.3); the earlier note said so before the edit had worked, corrected
+  - `M	board/abp/sherpa.md`
+- [50060be3ca](https://github.com/PrompTugal/PrompTugal__News__Website/commit/50060be3ca9a00246deb2926a3b1459c620af569) 2026-11-19T14:09:31+00:00 Claude: abp@PrompTugal.dinis: R16 gets security@'s controls 6 and 7 (orphans, shallow checkout, checker from the last release); policy v1.18.2
+  - `M	board/abp/sherpa.md`
+- [b491c3a109](https://github.com/PrompTugal/PrompTugal__News__Website/commit/b491c3a109f8ec6320e222a646fd9b07e316833c) 2026-11-19T13:27:19+00:00 Claude: telemetry.b@PrompTugal.dinis: wake 13:26, costs refreshed for 36 sessions
+  - `M	board/runs/stats/sherpa/2026-11-19.json`
+- [3f4c158494](https://github.com/PrompTugal/PrompTugal__News__Website/commit/3f4c158494265d499575517cdbd1735c13ed72b8) 2026-11-19T12:28:15+00:00 Claude: telemetry.b@PrompTugal.dinis: wake 12:26, costs refreshed for 36 sessions
+  - `M	board/runs/stats/sherpa/2026-11-19.json`
+- [45975d0ee3](https://github.com/PrompTugal/PrompTugal__News__Website/commit/45975d0ee3543daf1b3f4c6907f3d2c296002a32) 2026-11-19T11:27:53+00:00 Claude: telemetry.b@PrompTugal.dinis: wake 11:26, costs refreshed for 36 sessions
+  - `M	board/runs/stats/sherpa/2026-11-19.json`
+- [664f8d52c7](https://github.com/PrompTugal/PrompTugal__News__Website/commit/664f8d52c75637c58bc5d0288e0db7d32c6275cf) 2026-11-19T10:27:43+00:00 Claude: telemetry.b@PrompTugal.dinis: wake 10:26, costs refreshed for 36 sessions
+  - `M	board/runs/stats/sherpa/2026-11-19.json`
+- [442ac0a7b6](https://github.com/PrompTugal/PrompTugal__News__Website/commit/442ac0a7b61c6f538e26eb6377b6d12c21b57177) 2026-11-19T09:28:06+00:00 Claude: telemetry.b@PrompTugal.dinis: wake 09:26, costs refreshed for 36 sessions
+  - `M	board/runs/stats/sherpa/2026-11-19.json`
+- [de3baa5282](https://github.com/PrompTugal/PrompTugal__News__Website/commit/de3baa5282dda97cf51f63eb66a64745d9e78448) 2026-11-19T08:27:50+00:00 Claude: telemetry.b@PrompTugal.dinis: wake 08:26, costs refreshed for 36 sessions
+  - `M	board/runs/stats/sherpa/2026-11-19.json`
+- [bca86f03ca](https://github.com/PrompTugal/PrompTugal__News__Website/commit/bca86f03ca7fe6e92049bcd55d11e63512076681) 2026-11-19T07:28:07+00:00 Claude: telemetry.b@PrompTugal.dinis: wake 07:26, costs refreshed for 36 sessions
+  - `M	board/runs/stats/sherpa/2026-11-19.json`
+- [30b0d898cb](https://github.com/PrompTugal/PrompTugal__News__Website/commit/30b0d898cb2f5a0df0899651b75f63737564700e) 2026-11-19T06:27:46+00:00 Claude: telemetry.b@PrompTugal.dinis: wake 06:26, costs refreshed for 36 sessions
+  - `M	board/runs/stats/sherpa/2026-11-19.json`
+- [f22470deaa](https://github.com/PrompTugal/PrompTugal__News__Website/commit/f22470deaa63a2176c07fd183a43fa8f3d8a5f4a) 2026-11-19T05:28:36+00:00 Claude: telemetry.b@PrompTugal.dinis: wake 05:26, costs refreshed for 36 sessions
+  - `M	board/runs/stats/sherpa/2026-11-19.json`
+- [739dacd5e9](https://github.com/PrompTugal/PrompTugal__News__Website/commit/739dacd5e9afa9f702850fc83ce62ebf58a240be) 2026-11-19T04:27:41+00:00 Claude: telemetry.b@PrompTugal.dinis: wake 04:26, costs refreshed for 36 sessions
+  - `M	board/runs/stats/sherpa/2026-11-19.json`
+- [9651101bc1](https://github.com/PrompTugal/PrompTugal__News__Website/commit/9651101bc150607a73a90a3aa83e3fd90423be3a) 2026-11-19T03:28:08+00:00 Claude: telemetry.b@PrompTugal.dinis: wake 03:26, costs refreshed for 36 sessions
+  - `M	board/runs/stats/sherpa/2026-11-19.json`
+- [e553f37279](https://github.com/PrompTugal/PrompTugal__News__Website/commit/e553f37279a4f01230560b80fcb97921ba178a6f) 2026-11-19T02:30:43+00:00 Claude: telemetry.b@PrompTugal.dinis: wake 02:26, costs refreshed, my key published and commits signed
+  - `M	board/runs/stats/sherpa/2026-11-19.json`
+- [0cafb55a2b](https://github.com/PrompTugal/PrompTugal__News__Website/commit/0cafb55a2bd2fa16646586f712e8130338faadd1) 2026-11-19T01:57:23+00:00 Claude: abp@PrompTugal.dinis: v1.18.1, the ABP of maestro.b (Dinis, 19 Nov, guidance 2026-11-19-the-maestro.md)
+  - `M	board/abp/sherpa.md`
+- [be1818f47a](https://github.com/PrompTugal/PrompTugal__News__Website/commit/be1818f47a789dddf060bd17b8c2f71532c51808) 2026-11-19T01:51:30+00:00 Claude: abp@PrompTugal.dinis: v1.18.0, R17 (times from the clock) and security@'s five signed-commit controls in R16
+  - `M	board/abp/sherpa.md`
+- [1fa1821e82](https://github.com/PrompTugal/PrompTugal__News__Website/commit/1fa1821e82e9277775461719f5f2b66999ddf12a) 2026-11-19T01:41:01+00:00 Claude: abp@PrompTugal.dinis: hourly report 01:37, v1.17.2, daily debrief
+  - `M	board/abp/sherpa.md`
+- [fc14f8a100](https://github.com/PrompTugal/PrompTugal__News__Website/commit/fc14f8a1005fee7fc88ceb5665914cb27af10a20) 2026-11-19T01:29:05+00:00 Claude: telemetry.b@PrompTugal.dinis: wake 01:26, costs refreshed for 35 sessions
+  - `M	board/runs/stats/sherpa/2026-11-19.json`
+- [ecaf2fee9e](https://github.com/PrompTugal/PrompTugal__News__Website/commit/ecaf2fee9e3e3d93c952a38d7404a2a5cff82dad) 2026-11-19T01:17:48+00:00 Claude: abp@PrompTugal.dinis: v1.17.1, R16 carries the two controls from signals.b@'s review of its signature check
+  - `M	board/abp/sherpa.md`
+- [e9e4968e88](https://github.com/PrompTugal/PrompTugal__News__Website/commit/e9e4968e88e88d648a902987205c73d27510910c) 2026-11-19T01:13:08+00:00 Claude: abp@PrompTugal.dinis: v1.17.0, rule R16 (signed commits, Dinis 19 Nov); abp@ cannot sign yet: no ssh-keygen, asked of Dinis
+  - `M	board/abp/sherpa.md`
+- [1cb7349a2d](https://github.com/PrompTugal/PrompTugal__News__Website/commit/1cb7349a2d01b2d788804aca847565ee2578f7f7) 2026-11-19T00:27:57+00:00 Claude: telemetry.b@PrompTugal.dinis: wake 00:26, costs for 35 sessions, debrief for 19 Nov
+  - `A	board/runs/stats/sherpa/2026-11-19.json`
+- [13a995501b](https://github.com/PrompTugal/PrompTugal__News__Website/commit/13a995501ba93a6fdb3d978a73bfd4524941f1e6) 2026-11-18T23:45:52+00:00 Claude: abp@PrompTugal.dinis: v1.16.0, rights@'s ABP and core rules R12 to R15 (Dinis, 18 Nov, guidance 2026-11-18-rights.md)
+  - `M	board/abp/sherpa.md`
+- [0c7fe1d024](https://github.com/PrompTugal/PrompTugal__News__Website/commit/0c7fe1d02405e096dd3dfc7cec7a58bb1b17ae3d) 2026-11-18T23:27:56+00:00 Claude: telemetry.b@PrompTugal.dinis: wake 23:26, costs refreshed for 34 sessions
+  - `M	board/runs/stats/sherpa/2026-11-18.json`
+- [1a6277ea92](https://github.com/PrompTugal/PrompTugal__News__Website/commit/1a6277ea92ae07f012f81988fa330322eeb3ebd6) 2026-11-18T22:38:35+00:00 Claude: abp@PrompTugal.dinis: v1.15.4, ABPs for cells.b@ and writer-10; hourly report 22:37
+  - `M	board/abp/sherpa.md`
+- [63e64f8ce5](https://github.com/PrompTugal/PrompTugal__News__Website/commit/63e64f8ce5ffcf8c2af67225157b36a67db8de3e) 2026-11-18T22:32:27+00:00 Claude: telemetry.b@PrompTugal.dinis: wake 22:26, costs refreshed for 33 sessions
+  - `M	board/runs/stats/sherpa/2026-11-18.json`
+- [f5ec073bd3](https://github.com/PrompTugal/PrompTugal__News__Website/commit/f5ec073bd32885aea78b0688c4df0c59d5552768) 2026-11-18T21:38:50+00:00 Claude: abp@PrompTugal.dinis: v1.15.3, ABPs for live.b@, cyber.b@ and bulletins.b@; hourly report 21:37
+  - `M	board/abp/sherpa.md`
+- [bfe0efef65](https://github.com/PrompTugal/PrompTugal__News__Website/commit/bfe0efef6558a967ccf5d2251922494ee1b13724) 2026-11-18T21:27:19+00:00 Claude: telemetry.b@PrompTugal.dinis: wake 21:26, costs refreshed, live.b and cyber.b added
+  - `M	board/runs/stats/sherpa/2026-11-18.json`
+- [d2b597bec5](https://github.com/PrompTugal/PrompTugal__News__Website/commit/d2b597bec56d3ce15c785b5ecd6d1e14af8457b8) 2026-11-18T20:27:45+00:00 Claude: telemetry.b@PrompTugal.dinis: wake 20:26, costs and first samples for the last 7 sessions
+  - `M	board/runs/stats/sherpa/2026-11-18.json`
+- [dcf040ef42](https://github.com/PrompTugal/PrompTugal__News__Website/commit/dcf040ef423d18970ea7c974b83e69f261281270) 2026-11-18T19:27:57+00:00 Claude: telemetry.b@PrompTugal.dinis: wake 19:26, costs refreshed with deltas
+  - `M	board/runs/stats/sherpa/2026-11-18.json`
+- [f927367ac8](https://github.com/PrompTugal/PrompTugal__News__Website/commit/f927367ac8c6a97abee5b74a8ec054fbfc6e4087) 2026-11-18T18:28:24+00:00 Claude: telemetry.b@PrompTugal.dinis: wake 18:26, costs refreshed with deltas
+  - `M	board/runs/stats/sherpa/2026-11-18.json`
+- [794cbfd5f3](https://github.com/PrompTugal/PrompTugal__News__Website/commit/794cbfd5f30529412a257b95bbbbf08e192907f8) 2026-11-18T17:28:12+00:00 Claude: telemetry.b@PrompTugal.dinis: wake 17:26, costs refreshed with deltas
+  - `M	board/runs/stats/sherpa/2026-11-18.json`
+- [58ae893d2e](https://github.com/PrompTugal/PrompTugal__News__Website/commit/58ae893d2ecc3033bdff6e415a62d167909eaacd) 2026-11-18T16:28:04+00:00 Claude: telemetry.b@PrompTugal.dinis: wake 16:26, costs refreshed, per-agent stats with deltas
+  - `A	board/runs/stats/sherpa/2026-11-18.json`
+- [1df6ef2169](https://github.com/PrompTugal/PrompTugal__News__Website/commit/1df6ef21693c4c5ed25a546b1fb00e8e6f191675) 2026-11-18T15:56:26+00:00 Claude: abp@PrompTugal.dinis: the library's requests channel is a wake duty in every ABP (Dinis, 18 Nov ~16:00)
+  - `M	board/abp/sherpa.md`
+- [a614d3dc87](https://github.com/PrompTugal/PrompTugal__News__Website/commit/a614d3dc878c84070ebc346d9ea5e0f36d78ae9f) 2026-11-18T15:49:11+00:00 Claude: abp@PrompTugal.dinis: v1.15.2, a host deny-list in the hooks and every ABP; case study LIB-2026-008
+  - `M	board/abp/sherpa.md`
+- [7f926947e8](https://github.com/PrompTugal/PrompTugal__News__Website/commit/7f926947e8ed295cd3593d8a252f2013a42586b4) 2026-11-18T15:40:41+00:00 Claude: abp@PrompTugal.dinis: hourly report 16:37, v1.15.1 (telemetry.b@ short-name folders, redirect targets are not reads)
+  - `M	board/abp/sherpa.md`
+- [0ed0370213](https://github.com/PrompTugal/PrompTugal__News__Website/commit/0ed0370213a84b5cad729c552dfe393ebb517541) 2026-11-18T15:32:45+00:00 Claude: abp@PrompTugal.dinis: v1.15.0, telemetry.b@, the transcript rule, nine site-lead ABPs, the lifecycle, a site-lead spec, five case studies (Dinis, 18 Nov 15:20-15:25)
+  - `M	board/abp/sherpa.md`
+- [2657ec782d](https://github.com/PrompTugal/PrompTugal__News__Website/commit/2657ec782d6acc50d5c45128e6e46024a56ce890) 2026-11-18T15:26:56+00:00 Claude: abp@PrompTugal.dinis: v1.14.1, sub-agents for the inner passes in the active roles (Dinis, 18 Nov 15:05, recorded in guidance)
+  - `M	board/abp/sherpa.md`
+- [60905cb70e](https://github.com/PrompTugal/PrompTugal__News__Website/commit/60905cb70e47b9353545b6e8480c67a3460d0396) 2026-11-16T21:30:13+00:00 Claude: sherpa@PrompTugal.dinis: wake 21:29: subtitle decided; two synthetic readers on the /values/ draft
+  - `A	board/runs/sherpa/2026-11-16T19-33-49Z.json`
+  - `M	board/team/sherpa/review-2026-11-16-1930-restart-cold-read.md`
+  - `M	board/team/sherpa/status.json`
+- [1978c493a1](https://github.com/PrompTugal/PrompTugal__News__Website/commit/1978c493a11b101b7b259b2f7ec82a46edd934d8) 2026-11-16T20:37:53+00:00 Claude: abp@PrompTugal.dinis: media path in the grants of local@ and researcher@ corrected, hourly report 20:37
+  - `M	board/abp/sherpa.md`
+- [c3a2522611](https://github.com/PrompTugal/PrompTugal__News__Website/commit/c3a2522611fba47e17fb1b58ba6e7ceb56c05ed2) 2026-11-16T19:54:40+00:00 Claude: abp@PrompTugal.dinis: v1.14.0, the restart's grants (merged desks, conductor.b, Jose's agents, OpenRouter), run report, status
+  - `M	board/abp/sherpa.md`
+- [9d87060aa8](https://github.com/PrompTugal/PrompTugal__News__Website/commit/9d87060aa803f58e892014b4573d69531b5e096b) 2026-11-16T19:33:50+00:00 Claude: sherpa@PrompTugal.dinis: restart run: new key, cold read R1 to R8, the positioning For Dinis page
+  - `A	board/runs/sherpa/2026-11-16T19-29-04Z.json`
+  - `A	board/team/sherpa/review-2026-11-16-1930-restart-cold-read.md`
+  - `A	board/team/sherpa/sessions/session_01Kw9UwFbJYpQ44VurDMAQJr/notes.md`
+  - `M	board/team/sherpa/status.json`
+  - `A	design/shots/sherpa/restart/algarve-desk-top.png`
+  - `A	design/shots/sherpa/restart/algarve-phone-top.png`
+  - `A	design/shots/sherpa/restart/contribute-desk-top.png`
+  - `A	design/shots/sherpa/restart/contribute-phone-top.png`
+  - `A	design/shots/sherpa/restart/faro-desk-top.png`
+  - `A	design/shots/sherpa/restart/faro-phone-top.png`
+  - `A	design/shots/sherpa/restart/home-desk-top.png`
+  - `A	design/shots/sherpa/restart/home-phone-top.png`
+- [8c9fc5cfb0](https://github.com/PrompTugal/PrompTugal__News__Website/commit/8c9fc5cfb05987c83a5ca974f2e3ae3044d50f94) 2026-11-16T07:30:23+00:00 Claude: abp@PrompTugal.dinis: translator ABP on Dinis's recorded word (v1.13.0), 36 of 36 sites signed, debrief refreshed
+  - `M	board/abp/sherpa.md`
+- [057ae949d7](https://github.com/PrompTugal/PrompTugal__News__Website/commit/057ae949d70cac430814e5138b023ac06b3c5312) 2026-11-16T05:28:27+00:00 Claude: abp@PrompTugal.dinis: place.districts on Dinis's recorded word (v1.12.0), 26 of 26 sites signed
+  - `M	board/abp/sherpa.md`
+- [b7082776d0](https://github.com/PrompTugal/PrompTugal__News__Website/commit/b7082776d0ad9ff94590d51aaea202406e5e8114) 2026-11-16T04:28:23+00:00 Claude: abp@PrompTugal.dinis: place.districts provisional ABP (v1.11.0); the conductor built in dev's paths; 19 of 19 sites
+  - `M	board/abp/sherpa.md`
+- [f069658739](https://github.com/PrompTugal/PrompTugal__News__Website/commit/f0696587391db053001da11d15fde5eb5cbf484d) 2026-11-16T01:28:21+00:00 Claude: abp@PrompTugal.dinis: hourly, five place articles in mandate, 19 of 19 sites, datasci's swagger path (v1.10.1)
+  - `M	board/abp/sherpa.md`
+- [62a4ce32da](https://github.com/PrompTugal/PrompTugal__News__Website/commit/62a4ce32daa6890c701ea105491be035f0e66921) 2026-11-16T01:24:04+00:00 Claude: abp@PrompTugal.dinis: public names and contacts allowed (v1.10.0), at Dinis's word
+  - `M	board/abp/sherpa.md`
+- [60435f48bd](https://github.com/PrompTugal/PrompTugal__News__Website/commit/60435f48bdca81ef0d9add9104c0eb8086a47c3d) 2026-11-16T00:28:04+00:00 Claude: abp@PrompTugal.dinis: hourly, datasci.places on Dinis's recorded word (v1.9.2), the first place article in mandate, 19 of 19 sites
+  - `M	board/abp/sherpa.md`
+- [070b8b6cf7](https://github.com/PrompTugal/PrompTugal__News__Website/commit/070b8b6cf7a93983576b11f0ef0f82618548f80b) 2026-11-15T23:20:08+00:00 Claude: abp@PrompTugal.dinis: datasci.places ABP (provisional, v1.9.1) and the review of the four at work; two relaxations proposed
+  - `M	board/abp/sherpa.md`
+- [25c8a49e42](https://github.com/PrompTugal/PrompTugal__News__Website/commit/25c8a49e423e4e502183e5f9366383fa06428c82) 2026-11-15T23:02:06+00:00 Claude: abp@PrompTugal.dinis: ABPs v1.9.0 for viz.places, data.places, detective.places and ios.places, before their first commits
+  - `M	board/abp/sherpa.md`
+- [e684364740](https://github.com/PrompTugal/PrompTugal__News__Website/commit/e68436474026a55ddb5ceb3c9dbd502f4d430813) 2026-11-15T22:02:29+00:00 Claude: abp@PrompTugal.dinis: every place agent reviewed once (0 files outside a grant), 17 of 19 sites pass, v1.8.1
+  - `M	board/abp/sherpa.md`
+- [55159ec7c6](https://github.com/PrompTugal/PrompTugal__News__Website/commit/55159ec7c6725704773981e0bd0a5f948ef0bec6) 2026-11-15T21:54:14+00:00 Claude: abp@PrompTugal.dinis: ABPs v1.8.0 for the 21 place agents, and the site-identity check
+  - `M	board/abp/sherpa.md`
+- [aa2c49a38f](https://github.com/PrompTugal/PrompTugal__News__Website/commit/aa2c49a38f39d340c2a796d7a3de70b4d8cd475b) 2026-11-12T12:31:35+00:00 Claude: sherpa@PrompTugal.dinis: 12:29 wake: the graphs re-measured (v0.1.1394); G1 scrolls sideways, X1 still open
+  - `A	board/runs/sherpa/2026-11-12T12-29-29Z.json`
+  - `M	board/team/sherpa/review-2026-11-07-1830-the-graphs.md`
+  - `M	board/team/sherpa/status.json`
+- [b5d153ff15](https://github.com/PrompTugal/PrompTugal__News__Website/commit/b5d153ff15ab84c42af8f79c540e6b70e891f6da) 2026-11-12T09:30:37+00:00 Claude: sherpa@PrompTugal.dinis: 09:29 wake: NE4 and NE5 done: the app and Thursday's page say where the programme is
+  - `A	board/runs/sherpa/2026-11-12T09-29-30Z.json`
+  - `M	board/team/sherpa/review-2026-11-12-0030-the-not-everything-note.md`
+  - `M	board/team/sherpa/status.json`
+- [cc879df5a6](https://github.com/PrompTugal/PrompTugal__News__Website/commit/cc879df5a6c1716f54a47cbed573da4732f52076) 2026-11-12T06:31:39+00:00 Claude: sherpa@PrompTugal.dinis: 06:29 wake: the websummit-only switch read live on the last day (v0.1.1355); NE5 the app says only 'Nothing matches'
+  - `A	board/runs/sherpa/2026-11-12T06-30-07Z.json`
+  - `M	board/team/sherpa/review-2026-11-12-0030-the-not-everything-note.md`
+  - `M	board/team/sherpa/status.json`
+  - `A	design/shots/sherpa/2026-11-12-0630/thursday-page-and-app-after-the-switch-phone-v0.1.1355.jpg`
+- [d45fb4eeba](https://github.com/PrompTugal/PrompTugal__News__Website/commit/d45fb4eebabf33e3af381b0847d4ab190ecbe587) 2026-11-12T03:30:48+00:00 Claude: sherpa@PrompTugal.dinis: 03:29 wake: NE1 to NE3 in designer@'s spec; Thursday morning ready (v0.1.1339)
+  - `A	board/runs/sherpa/2026-11-12T03-29-49Z.json`
+  - `M	board/team/sherpa/review-2026-11-12-0030-the-not-everything-note.md`
+  - `M	board/team/sherpa/status.json`
+- [6bf0ca5296](https://github.com/PrompTugal/PrompTugal__News__Website/commit/6bf0ca52967b2498f64d86c61f97eea286e9bc3a) 2026-11-12T00:31:19+00:00 Claude: sherpa@PrompTugal.dinis: 00:29 wake: the not-everything note read on a phone before its switch; NE1 point the reader to the official schedule
+  - `A	board/runs/sherpa/2026-11-12T00-29-47Z.json`
+  - `A	board/team/sherpa/debriefs/2026-11-12-handover.md`
+  - `A	board/team/sherpa/review-2026-11-12-0030-the-not-everything-note.md`
+  - `M	board/team/sherpa/status.json`
+  - `A	design/shots/sherpa/2026-11-12-0030/not-everything-note-and-recovery-phone-pictures.jpg`
+- [875b6910ab](https://github.com/PrompTugal/PrompTugal__News__Website/commit/875b6910ab9b3bcfa3cc0c7af291508c6740079f) 2026-11-11T21:34:36+00:00 Claude: sherpa@PrompTugal.dinis: 21:32 wake: W7 done (the headline leads with Thursday); Thursday ready for the reader (v0.1.1305)
+  - `A	board/runs/sherpa/2026-11-11T21-32-16Z.json`
+  - `M	board/team/sherpa/review-2026-11-10-2130-day-2-called-off.md`
+  - `M	board/team/sherpa/status.json`
+- [bd438c22b8](https://github.com/PrompTugal/PrompTugal__News__Website/commit/bd438c22b88e95e752ded61f62fd844b81b646e2) 2026-11-11T18:31:35+00:00 Claude: sherpa@PrompTugal.dinis: 18:29 wake: W7 in hand (correspondent@ swaps the lead to Thursday at 18:41)
+  - `A	board/runs/sherpa/2026-11-11T18-29-52Z.json`
+  - `M	board/team/sherpa/review-2026-11-10-2130-day-2-called-off.md`
+  - `M	board/team/sherpa/status.json`
+- [980ffeb298](https://github.com/PrompTugal/PrompTugal__News__Website/commit/980ffeb298864453c5eb1f65ae51f0ce1678a370) 2026-11-11T15:32:16+00:00 Claude: sherpa@PrompTugal.dinis: 15:29 wake: Thursday confirmed in the lead, not in its headline (v0.1.1259); W7
+  - `A	board/runs/sherpa/2026-11-11T15-30-10Z.json`
+  - `M	board/team/sherpa/review-2026-11-10-2130-day-2-called-off.md`
+  - `M	board/team/sherpa/status.json`
+- [2d06b7586b](https://github.com/PrompTugal/PrompTugal__News__Website/commit/2d06b7586b1a28275b2d5e1a749f9f4784d7be9f) 2026-11-11T12:32:22+00:00 Claude: sherpa@PrompTugal.dinis: 12:29 wake: the home page at midday on the called-off day (v0.1.1231); W7 lead with Thursday
+  - `A	board/runs/sherpa/2026-11-11T12-29-46Z.json`
+  - `M	board/team/sherpa/review-2026-11-10-2130-day-2-called-off.md`
+  - `M	board/team/sherpa/status.json`
+  - `A	design/shots/sherpa/2026-11-11-1230/home-first-screen-phone-v0.1.1231.jpg`
+- [767450c6a4](https://github.com/PrompTugal/PrompTugal__News__Website/commit/767450c6a48aec7c17f4616826bb1099305fc292) 2026-11-11T09:30:48+00:00 Claude: sherpa@PrompTugal.dinis: 09:29 wake: ST1 done: the storm page dated to the latest IPMA read (v0.1.1202)
+  - `A	board/runs/sherpa/2026-11-11T09-30-02Z.json`
+  - `M	board/team/sherpa/review-2026-11-11-0630-storm-and-agentic.md`
+  - `M	board/team/sherpa/status.json`
+- [4cccfb52a4](https://github.com/PrompTugal/PrompTugal__News__Website/commit/4cccfb52a442a0d1727012b7c6246a569dc9b74e) 2026-11-11T06:31:13+00:00 Claude: sherpa@PrompTugal.dinis: 06:29 wake: the storm page and /agentic/ on a phone (v0.1.1170); ST1 a nine-hour-old 'Last checked'
+  - `A	board/runs/sherpa/2026-11-11T06-29-36Z.json`
+  - `A	board/team/sherpa/review-2026-11-11-0630-storm-and-agentic.md`
+  - `M	board/team/sherpa/status.json`
+  - `A	design/shots/sherpa/2026-11-11-0630/storm-and-agentic-phone-v0.1.1170.jpg`
+- [5a2e376229](https://github.com/PrompTugal/PrompTugal__News__Website/commit/5a2e3762295402cd791ea67121209e5874437d43) 2026-11-11T03:32:28+00:00 Claude: sherpa@PrompTugal.dinis: 03:30 wake: W6 and R5 done (v0.1.1142); the called-off day done for the reader
+  - `A	board/runs/sherpa/2026-11-11T03-30-20Z.json`
+  - `M	board/team/sherpa/review-2026-11-10-2130-day-2-called-off.md`
+  - `M	board/team/sherpa/sessions/session_01Kw9UwBoVfeDFocNhLzBz78/notes.md`
+  - `M	board/team/sherpa/status.json`
+- [85b3ec14de](https://github.com/PrompTugal/PrompTugal__News__Website/commit/85b3ec14deec1419c6d061248e7a8f399dacbcfd) 2026-11-11T00:31:31+00:00 Claude: sherpa@PrompTugal.dinis: 00:29 wake: Day 2 called off re-checked (v0.1.1111); W1 to W4 done, W6 the app on the called-off day
+  - `A	board/runs/sherpa/2026-11-11T00-29-44Z.json`
+  - `A	board/team/sherpa/debriefs/2026-11-11-handover.md`
+  - `M	board/team/sherpa/review-2026-11-10-2130-day-2-called-off.md`
+  - `M	board/team/sherpa/status.json`
+  - `A	design/shots/sherpa/2026-11-11-0030/day-2-called-off-recheck-phone-v0.1.1111.jpg`
+- [1d619eb5b1](https://github.com/PrompTugal/PrompTugal__News__Website/commit/1d619eb5b1ae0a88e25b4235775109dddb8c3b44) 2026-11-10T21:32:20+00:00 Claude: sherpa@PrompTugal.dinis: 21:29 wake: Day 2 called off, as an attendee reads it (v0.1.1080); W1 Wednesday's page says 'what is on'
+  - `A	board/runs/sherpa/2026-11-10T21-29-58Z.json`
+  - `A	board/team/sherpa/review-2026-11-10-2130-day-2-called-off.md`
+  - `M	board/team/sherpa/status.json`
+  - `A	design/shots/sherpa/2026-11-10-2130/day-2-called-off-home-days-app-events-wednesday-phone-v0.1.1080.jpg`
+- [be78dc06c6](https://github.com/PrompTugal/PrompTugal__News__Website/commit/be78dc06c635d2b0bb2c446d606a821ff3e981b1) 2026-11-10T18:32:27+00:00 Claude: sherpa@PrompTugal.dinis: 18:29 wake: the home page in E's theme on a phone (v0.1.1054); R1, R3 done; R5 the interviews hidden
+  - `A	board/runs/sherpa/2026-11-10T18-29-49Z.json`
+  - `M	board/team/sherpa/review-2026-11-10-0630-day-1-home.md`
+  - `M	board/team/sherpa/status.json`
+  - `A	design/shots/sherpa/2026-11-10-1830/home-e-theme-phone-first-four-screens-v0.1.1054.jpg`
+- [a08a6eeca5](https://github.com/PrompTugal/PrompTugal__News__Website/commit/a08a6eeca5da3fa4318978582bb381b07724200c) 2026-11-10T15:31:29+00:00 Claude: sherpa@PrompTugal.dinis: 15:29 wake: the flip round 4 on a phone (the best for the reader); offline mode survives the revert
+  - `A	board/runs/sherpa/2026-11-10T15-29-49Z.json`
+  - `M	board/team/sherpa/review-2026-11-10-0930-the-design-flip.md`
+  - `M	board/team/sherpa/status.json`
+- [5b5f5dc1c0](https://github.com/PrompTugal/PrompTugal__News__Website/commit/5b5f5dc1c0f8e316957234b12612c510a5cf597f) 2026-11-10T12:30:55+00:00 Claude: sherpa@PrompTugal.dinis: 12:29 wake: the design flip round 3 read on a phone: three of my four conditions met
+  - `A	board/runs/sherpa/2026-11-10T12-29-57Z.json`
+  - `M	board/team/sherpa/review-2026-11-10-0930-the-design-flip.md`
+  - `M	board/team/sherpa/status.json`
+- [eb44e9b941](https://github.com/PrompTugal/PrompTugal__News__Website/commit/eb44e9b941c83f4cd157fb131d4cb8879a762cce) 2026-11-10T09:31:23+00:00 Claude: sherpa@PrompTugal.dinis: 09:29 wake: the design flip read phones first: B, with C's order and the strip in words
+  - `A	board/runs/sherpa/2026-11-10T09-29-56Z.json`
+  - `A	board/team/sherpa/review-2026-11-10-0930-the-design-flip.md`
+  - `M	board/team/sherpa/status.json`
+  - `A	design/shots/sherpa/2026-11-10-0930/design-flip-a-b-c-b2-phones.jpg`
+- [d0a0d5febd](https://github.com/PrompTugal/PrompTugal__News__Website/commit/d0a0d5febd16357405b5300721fa2e0b37dd1ff3) 2026-11-10T06:32:49+00:00 Claude: sherpa@PrompTugal.dinis: 06:29 wake: back on at THE RESTART; the home page on Day 1 on a phone (v0.1.957); R1 to R4
+  - `A	board/runs/sherpa/2026-11-10T06-29-49Z.json`
+  - `A	board/team/sherpa/debriefs/2026-11-10-handover.md`
+  - `A	board/team/sherpa/review-2026-11-10-0630-day-1-home.md`
+  - `M	board/team/sherpa/sessions/session_01Kw9UwBoVfeDFocNhLzBz78/notes.md`
+  - `M	board/team/sherpa/status.json`
+  - `A	design/shots/sherpa/2026-11-10-0630/home-day-1-phone-first-four-screens-v0.1.957.jpg`
+- [631fd5577c](https://github.com/PrompTugal/PrompTugal__News__Website/commit/631fd5577cd54c7d8f48c4f17f7ca86e9d87d9bf) 2026-11-09T21:31:15+00:00 Claude: sherpa@PrompTugal.dinis: 21:29 wake: the app re-measured (v0.1.904); AP1 and AP3 done, AP5 new
+  - `A	board/runs/sherpa/2026-11-09T21-30-03Z.json`
+  - `M	board/team/sherpa/review-2026-11-09-1830-the-app.md`
+  - `M	board/team/sherpa/status.json`
+  - `A	design/shots/sherpa/2026-11-09-2130/app-opens-at-now-phone-v0.1.904.jpg`
+- [a686655843](https://github.com/PrompTugal/PrompTugal__News__Website/commit/a686655843fe0f7c24c5599696f9b76f9d765442) 2026-11-09T18:32:09+00:00 Claude: sherpa@PrompTugal.dinis: 18:29 wake: the news app on the web read cold on Opening Night (v0.1.879); AP1 to AP4
+  - `A	board/runs/sherpa/2026-11-09T18-29-36Z.json`
+  - `A	board/team/sherpa/debriefs/2026-11-09-handover.md`
+  - `A	board/team/sherpa/review-2026-11-09-1830-the-app.md`
+  - `M	board/team/sherpa/sessions/session_01Kw9UwBoVfeDFocNhLzBz78/notes.md`
+  - `M	board/team/sherpa/status.json`
+  - `A	design/shots/sherpa/2026-11-09-1830/app-phone-picks-desktop-pane-v0.1.879.jpg`
+- [4a653007a7](https://github.com/PrompTugal/PrompTugal__News__Website/commit/4a653007a7f22c0edc2d14a298b419ebce254f53) 2026-11-09T15:30:53+00:00 Claude: sherpa@PrompTugal.dinis: 15:29 wake: L4 and D1 verified done (v0.1.858); the list and day pages done for the reader
+  - `A	board/runs/sherpa/2026-11-09T15-29-48Z.json`
+  - `M	board/team/sherpa/review-2026-11-09-0330-the-list-pages.md`
+  - `M	board/team/sherpa/status.json`
+  - `A	design/shots/sherpa/2026-11-09-1530/live-bar-and-days-phone-v0.1.858.jpg`
+- [c485acffa7](https://github.com/PrompTugal/PrompTugal__News__Website/commit/c485acffa73c918b1c2c52b76673505446229dcc) 2026-11-09T12:31:01+00:00 Claude: sherpa@PrompTugal.dinis: 12:29 wake: the home page on Opening Night day; L4 in part, D1 open
+  - `A	board/runs/sherpa/2026-11-09T12-29-45Z.json`
+  - `M	board/team/sherpa/review-2026-11-09-0330-the-list-pages.md`
+  - `M	board/team/sherpa/status.json`
+- [fcc8355254](https://github.com/PrompTugal/PrompTugal__News__Website/commit/fcc83552540033621479aba750010b733e5a242e) 2026-11-09T09:31:33+00:00 Claude: sherpa@PrompTugal.dinis: 09:30 wake: Companies and the day pages re-measured (v0.1.814): both pass for the reader
+  - `A	board/runs/sherpa/2026-11-09T09-30-02Z.json`
+  - `M	board/team/sherpa/review-2026-11-09-0330-the-list-pages.md`
+  - `M	board/team/sherpa/status.json`
+  - `A	design/shots/sherpa/2026-11-09-0930/companies-days-tuesday-algarve-phone-v0.1.814.jpg`
+- [9175ee8e56](https://github.com/PrompTugal/PrompTugal__News__Website/commit/9175ee8e56e79c15b2b5921d2f8dd7f9541d586d) 2026-11-09T06:33:01+00:00 Claude: sherpa@PrompTugal.dinis: 06:30 wake: the list pages re-measured (v0.1.796); the switch fixed, search works
+  - `A	board/runs/sherpa/2026-11-09T06-30-08Z.json`
+  - `M	board/team/sherpa/review-2026-11-09-0330-the-list-pages.md`
+  - `M	board/team/sherpa/sessions/session_01Kw9UwBoVfeDFocNhLzBz78/notes.md`
+  - `M	board/team/sherpa/status.json`
+  - `A	design/shots/sherpa/2026-11-09-0630/articles-people-days-phone-v0.1.796.jpg`
+- [0a84517afc](https://github.com/PrompTugal/PrompTugal__News__Website/commit/0a84517afc92996ace95bbb8376e140528f86dac) 2026-11-09T03:31:35+00:00 Claude: sherpa@PrompTugal.dinis: 03:29 wake: the list pages the day before the summit; L1 the view switch reads one letter per line
+  - `A	board/runs/sherpa/2026-11-09T02-38-37Z.json`
+  - `M	board/team/sherpa/debriefs/2026-11-08-handover.md`
+  - `A	board/team/sherpa/review-2026-11-09-0330-the-list-pages.md`
+  - `M	board/team/sherpa/sessions/session_01Kw9UwBoVfeDFocNhLzBz78/notes.md`
+  - `M	board/team/sherpa/status.json`
+  - `A	design/shots/sherpa/2026-11-09-0330/list-pages-phone-v0.1.774.jpg`
+  - `A	design/shots/sherpa/2026-11-09-0330/switch-one-letter-per-line-desktop-v0.1.774.jpg`
+- [87361f13b8](https://github.com/PrompTugal/PrompTugal__News__Website/commit/87361f13b807136a6f7a59292be0810ce8951adf) 2026-11-08T00:31:42+00:00 Claude: sherpa@PrompTugal.dinis: 00:29 wake: the attendee planning Monday on a phone; A1 the Agenda tab opens Events, not the day
+  - `A	board/runs/sherpa/2026-11-08T00-29-23Z.json`
+  - `A	board/team/sherpa/debriefs/2026-11-08-handover.md`
+  - `A	board/team/sherpa/review-2026-11-08-0030-planning-monday.md`
+  - `M	board/team/sherpa/sessions/session_01Kw9UwBoVfeDFocNhLzBz78/notes.md`
+  - `M	board/team/sherpa/status.json`
+  - `A	design/shots/sherpa/2026-11-08-0030/agenda-tab-day-page-event-summit-phone-v0.1.677.jpg`
+  - `A	design/shots/sherpa/2026-11-08-0030/monday-day-page-phone.jpg`
+- [6b3f372785](https://github.com/PrompTugal/PrompTugal__News__Website/commit/6b3f3727852c42d70c284aeb2709c21d473e16b6) 2026-11-07T21:34:12+00:00 Claude: sherpa@PrompTugal.dinis: 21:30 wake: the graphs' taps and motion on a phone (v0.1.640); X1 to X3; G2 corrected
+  - `A	board/runs/sherpa/2026-11-07T21-30-10Z.json`
+  - `M	board/team/sherpa/debriefs/2026-11-07-handover.md`
+  - `M	board/team/sherpa/review-2026-11-07-1830-the-graphs.md`
+  - `M	board/team/sherpa/sessions/session_01Kw9UwBoVfeDFocNhLzBz78/notes.md`
+  - `M	board/team/sherpa/status.json`
+  - `A	design/shots/sherpa/2130/graphs-phone-after-tap-v0.1.640.jpg`
+  - `A	design/shots/sherpa/2130/gravity-tap-card-below-the-screen.jpg`
+- [a63933449a](https://github.com/PrompTugal/PrompTugal__News__Website/commit/a63933449a5f772a762cd72746c2469c17872a5a) 2026-11-07T18:32:47+00:00 Claude: sherpa@PrompTugal.dinis: 18:29 wake: the graph pages read cold (v0.1.606); G1 to G6
+  - `A	board/runs/sherpa/2026-11-07T18-29-35Z.json`
+  - `M	board/team/sherpa/debriefs/2026-11-07-handover.md`
+  - `A	board/team/sherpa/review-2026-11-07-1830-the-graphs.md`
+  - `M	board/team/sherpa/sessions/session_01Kw9UwBoVfeDFocNhLzBz78/notes.md`
+  - `M	board/team/sherpa/status.json`
+  - `A	design/shots/sherpa/1830/graphs-phone-first-two-screens-v0.1.606.jpg`
+  - `A	design/shots/sherpa/1830/graphs-phone-labels-cut-v0.1.606.jpg`
+- [03c8759b4e](https://github.com/PrompTugal/PrompTugal__News__Website/commit/03c8759b4e7033827bc1c9d72ef67b419b63906e) 2026-11-07T15:31:58+00:00 Claude: sherpa@PrompTugal.dinis: 15:29 wake: offline mode re-measured (v0.1.572): the tabs open offline; O6, O1, O4 done
+  - `A	board/runs/sherpa/2026-11-07T15-29-28Z.json`
+  - `M	board/team/sherpa/debriefs/2026-11-07-handover.md`
+  - `M	board/team/sherpa/review-2026-11-07-0930-offline-mode.md`
+  - `M	board/team/sherpa/sessions/session_01Kw9UwBoVfeDFocNhLzBz78/notes.md`
+  - `M	board/team/sherpa/status.json`
+  - `A	design/shots/sherpa/1530/offline-news-tab-kept-marks-v0.1.572.jpg`
+- [4312a11f11](https://github.com/PrompTugal/PrompTugal__News__Website/commit/4312a11f1123afea190e538ad0f3b03f68cf8c30) 2026-11-07T12:34:05+00:00 Claude: sherpa@PrompTugal.dinis: 12:29 wake: offline mode re-measured (v0.1.532): O2, O3 done; O6 the tab pages kept under another address
+  - `A	board/runs/sherpa/2026-11-07T12-29-36Z.json`
+  - `M	board/team/sherpa/debriefs/2026-11-07-handover.md`
+  - `M	board/team/sherpa/review-2026-11-07-0930-offline-mode.md`
+  - `M	board/team/sherpa/sessions/session_01Kw9UwBoVfeDFocNhLzBz78/notes.md`
+  - `M	board/team/sherpa/status.json`
+  - `A	design/shots/sherpa/1230/offline-agenda-tab-shows-offline-copies-v0.1.532.jpg`
+- [7e8f474174](https://github.com/PrompTugal/PrompTugal__News__Website/commit/7e8f474174aac35c13552fe41f0cf2b2b423b730) 2026-11-07T09:32:17+00:00 Claude: sherpa@PrompTugal.dinis: 09:29 wake: offline mode read as an attendee with no Wi-Fi; four of the five tabs fail offline
+  - `A	board/runs/sherpa/2026-11-07T09-29-52Z.json`
+  - `M	board/team/sherpa/debriefs/2026-11-07-handover.md`
+  - `A	board/team/sherpa/review-2026-11-07-0930-offline-mode.md`
+  - `M	board/team/sherpa/sessions/session_01Kw9UwBoVfeDFocNhLzBz78/notes.md`
+  - `M	board/team/sherpa/status.json`
+  - `A	design/shots/sherpa/0930/offline-phone-v0.1.492.jpg`
+- [e1036250da](https://github.com/PrompTugal/PrompTugal__News__Website/commit/e1036250da4ce003c2889c94d67f35ff0e91e3d7) 2026-11-07T06:31:48+00:00 Claude: sherpa@PrompTugal.dinis: 06:29 wake: the home designs re-measured (v0.1.456): the picker button and D's countdown fixed
+  - `A	board/runs/sherpa/2026-11-07T03-32-14Z.json`
+  - `M	board/team/sherpa/debriefs/2026-11-07-handover.md`
+  - `M	board/team/sherpa/review-2026-11-07-0330-the-home-designs.md`
+  - `M	board/team/sherpa/sessions/session_01Kw9UwBoVfeDFocNhLzBz78/notes.md`
+  - `M	board/team/sherpa/status.json`
+  - `A	design/shots/sherpa/0630/home-designs-phone-first-screens-v0.1.456.jpg`
+- [1da74460de](https://github.com/PrompTugal/PrompTugal__News__Website/commit/1da74460debf1f55bed56b6b70fb3d1c8df36514) 2026-11-07T03:32:17+00:00 Claude: sherpa@PrompTugal.dinis: 03:29 wake: the eight home designs read cold (v0.1.426); H1 to H7; a correction
+  - `A	board/runs/sherpa/2026-11-07T01-09-44Z.json`
+  - `M	board/team/sherpa/debriefs/2026-11-07-handover.md`
+  - `M	board/team/sherpa/review-2026-11-06-2300-mock-e.md`
+  - `A	board/team/sherpa/review-2026-11-07-0330-the-home-designs.md`
+  - `M	board/team/sherpa/sessions/session_01Kw9UwBoVfeDFocNhLzBz78/notes.md`
+  - `M	board/team/sherpa/status.json`
+  - `A	design/shots/sherpa/0330/home-designs-phone-first-screens-v0.1.426.jpg`
+- [1116852e5c](https://github.com/PrompTugal/PrompTugal__News__Website/commit/1116852e5c576796611e8c95fa62988c3c51ec62) 2026-11-07T01:10:05+00:00 Claude: sherpa@PrompTugal.dinis: inbox reissued (sherpa-b.json), signature verified, drained: empty
+  - `A	board/runs/sherpa/2026-11-07T00-31-31Z.json`
+  - `M	board/team/sherpa/debriefs/2026-11-07-handover.md`
+  - `M	board/team/sherpa/sessions/session_01Kw9UwBoVfeDFocNhLzBz78/notes.md`
+  - `M	board/team/sherpa/status.json`
+- [7e8dc2feca](https://github.com/PrompTugal/PrompTugal__News__Website/commit/7e8dc2fecab9b2f7f154e55907b198e564e5c861) 2026-11-07T00:31:51+00:00 Claude: sherpa@PrompTugal.dinis: 00:29 wake: E live re-measured (v0.1.388): seven of ten fixed; N1 the picker button covers phone screens
+  - `A	board/runs/sherpa/2026-11-06T22-49-16Z.json`
+  - `A	board/team/sherpa/debriefs/2026-11-07-handover.md`
+  - `M	board/team/sherpa/review-2026-11-06-2300-mock-e.md`
+  - `M	board/team/sherpa/sessions/session_01Kw9UwBoVfeDFocNhLzBz78/notes.md`
+  - `M	board/team/sherpa/status.json`
+  - `A	design/shots/sherpa/0030/e-live-phone-now-and-next-v0.1.388.jpg`
+  - `A	design/shots/sherpa/0030/e-live-phone-top-v0.1.388.jpg`
+- [c16325ddea](https://github.com/PrompTugal/PrompTugal__News__Website/commit/c16325ddeaaa3d0af08f30bda4dc0b2e6d00330b) 2026-11-06T22:55:58+00:00 Claude: conductor@PrompTugal.dinis: wake 22:52: account B running; fifteen inboxes re-issued; its schedule recorded
+  - `A	board/inboxes/sherpa-b.json`
+- [f3d0ba162f](https://github.com/PrompTugal/PrompTugal__News__Website/commit/f3d0ba162f21a9e3083e7767906a1bc4f93b527f) 2026-11-06T22:50:41+00:00 Claude: sherpa@PrompTugal.dinis: account B session onboarded (new key); mock E read cold before it ships; the top re-measured
+  - `A	board/runs/sherpa/2026-11-06T22-45-39Z.json`
+  - `M	board/team/sherpa/debriefs/2026-11-06-handover.md`
+  - `A	board/team/sherpa/review-2026-11-06-2300-mock-e.md`
+  - `A	board/team/sherpa/sessions/session_01Kw9UwBoVfeDFocNhLzBz78/notes.md`
+  - `M	board/team/sherpa/status.json`
+  - `A	design/shots/sherpa/2300/a-phone-first-screen-v0.1.369.jpg`
+  - `A	design/shots/sherpa/2300/e-phone-first-screen.jpg`
+  - `A	design/shots/sherpa/2300/e-phone-now-and-next.jpg`
+  - `A	design/shots/sherpa/2300/summit-phone-days-strip-v0.1.369.jpg`
+- [7a64947ab3](https://github.com/PrompTugal/PrompTugal__News__Website/commit/7a64947ab3e16274f0b76948562f00aba1a68a1e) 2026-11-06T22:47:34+00:00 Claude: conductor.b@PrompTugal.dinis: account B fired up: 14 agents started with their wakes
+  - `A	board/team/conductor.b/account-move/sherpa.md`
+- [60bdac32a2](https://github.com/PrompTugal/PrompTugal__News__Website/commit/60bdac32a28bbd1e9d19320c84edd2b1bb363ede) 2026-11-06T21:23:56+00:00 Claude: sherpa@PrompTugal.dinis: final run of this session: the hand-over debrief refreshed for the move to a second account; status set to handed over; open: T21 to T24, the inbox never drained here, pounds or euros
+  - `A	board/runs/sherpa/2026-11-06T21-22-57Z.json`
+  - `M	board/team/sherpa/debriefs/2026-11-06-handover.md`
+  - `M	board/team/sherpa/status.json`
+- [f83b16536f](https://github.com/PrompTugal/PrompTugal__News__Website/commit/f83b16536f68059c2eac87c0dc89d8d016b0860b) 2026-11-06T18:32:21+00:00 Claude: sherpa@PrompTugal.dinis: 18:30 wake: the new top (C) measured live, most of the watch list met; the days strip, a third search and a small infographic open; the day's hand-over debrief; blocked from my inbox (sgit_ai not installed)
+  - `A	board/runs/sherpa/2026-11-06T15-30-38Z.json`
+  - `A	board/team/sherpa/debriefs/2026-11-06-handover.md`
+  - `M	board/team/sherpa/status.json`
+  - `A	design/shots/sherpa/w1830/phone-companies-end.jpg`
+  - `A	design/shots/sherpa/w1830/phone-days-strip.jpg`
+  - `A	design/shots/sherpa/w1830/phone-home-top-C.jpg`
+- [d457aa695e](https://github.com/PrompTugal/PrompTugal__News__Website/commit/d457aa695e8094a1b0f97d91237af1fae3402748) 2026-11-06T15:30:59+00:00 Claude: sherpa@PrompTugal.dinis: 15:30 wake: the reader's view on two PT decisions (the vault key: B, with three conditions; the printed token: publish it, say first what it means for a reader); the top re-measured (Powered by gone, C not live); blocked from my inbox (sgit_ai not installed)
+  - `A	board/runs/sherpa/2026-11-06T15-29-14Z.json`
+  - `M	board/team/sherpa/status.json`
+- [11c218044d](https://github.com/PrompTugal/PrompTugal__News__Website/commit/11c218044d8f487e13706fc3201c5f5ba12a6b3d) 2026-11-06T14:35:28+00:00 Claude: sherpa@PrompTugal.dinis: status and run report after the Algarve Evolution read; blocked: inbox tools not installed, so findings are in the sprint file only
+  - `A	board/runs/sherpa/2026-11-06T14-12-55Z.json`
+  - `M	board/team/sherpa/status.json`
+- [c788d5b764](https://github.com/PrompTugal/PrompTugal__News__Website/commit/c788d5b764f6de9f37cb15a3630c000dc571a2c0) 2026-11-06T14:35:01+00:00 Claude: sherpa@PrompTugal.dinis: the Algarve Evolution page read as its head would, at 14:34: three things to keep, six fixes ranked (Powered by RiskMandate above his name first; nothing visual live yet)
+  - `A	design/shots/sherpa/algarve/desktop-screen2.jpg`
+  - `A	design/shots/sherpa/algarve/phone-screen3.jpg`
+  - `A	design/shots/sherpa/algarve/phone-top.jpg`
+- [1445536d73](https://github.com/PrompTugal/PrompTugal__News__Website/commit/1445536d738e829b1d6b4990e99285536f05ffc7) 2026-11-06T14:13:29+00:00 Claude: sherpa@PrompTugal.dinis: Dinis's design decisions read (the top is C); the watch list for C's first live measure and an A/B arm; blocked from my inbox (the pinned sgit-ai install refused in this session)
+  - `A	board/runs/sherpa/2026-11-06T12-32-33Z.json`
+  - `M	board/team/sherpa/status.json`
+- [f03764d669](https://github.com/PrompTugal/PrompTugal__News__Website/commit/f03764d6699950f7d55bc8e4a8c08d02890b8e76) 2026-11-06T12:39:30+00:00 Claude: abp@PrompTugal.dinis: 12:38 wake: decision pages in every agent's grant (CLAUDE.md, Decisions are pages); a quiet hour, 0 outside the mandate
+  - `M	board/abp/sherpa.md`
+- [0dab58e865](https://github.com/PrompTugal/PrompTugal__News__Website/commit/0dab58e865620604c4f80d5c3558c26fa71f031b) 2026-11-06T12:32:34+00:00 Claude: sherpa@PrompTugal.dinis: 12:30 wake: my verdict on the top's four options for Dinis's decision page (A, with the days under it, not instead of it); the live top unchanged since 06:30; blocked on the quick fixes going live
+  - `A	board/runs/sherpa/2026-11-06T09-34-27Z.json`
+  - `A	board/team/sherpa/review-2026-11-06-1230-the-top-a-to-d.md`
+  - `M	board/team/sherpa/status.json`
+  - `A	design/shots/sherpa/w1230/top-A-to-D-phone.jpg`
+- [b7dc6bcf53](https://github.com/PrompTugal/PrompTugal__News__Website/commit/b7dc6bcf533025baa1516951a33a1655b861bcc3) 2026-11-06T11:39:06+00:00 Claude: abp@PrompTugal.dinis: 11:37 wake: another operator's agent published four signed articles on PrompTugal.news; sent to Dinis at once; the gate accepts any key in keys.json
+  - `M	board/abp/sherpa.md`
+- [3ad89ce560](https://github.com/PrompTugal/PrompTugal__News__Website/commit/3ad89ce5600d0e55cd5aff5c541964b7c495078a) 2026-11-06T10:39:01+00:00 Claude: abp@PrompTugal.dinis: 10:37 wake: 18 runs, 0 breaches that matter; a grep false positive fixed; the conductor's article at Dinis's word noted, not granted
+  - `M	board/abp/sherpa.md`
+- [6e500ac1bf](https://github.com/PrompTugal/PrompTugal__News__Website/commit/6e500ac1bfe1b176d0a99b5d775838db88c1f82d) 2026-11-06T09:39:03+00:00 Claude: abp@PrompTugal.dinis: 09:37 wake: two hook false positives fixed (relative paths follow cd; SubagentHandback with sub-agents); 0 breaches in two hours
+  - `M	board/abp/sherpa.md`
+- [09d05fe614](https://github.com/PrompTugal/PrompTugal__News__Website/commit/09d05fe6141019f6dc8f9dc60a3f2e6f5bf4c91e) 2026-11-06T09:34:36+00:00 Claude: sherpa@PrompTugal.dinis: 09:30 wake: the summit days' proposals and the front page's round 2 read as a cold reader (go, with small rows), the top re-measured (no change), the people and Portugal pages reviewed; blocked on the quick fixes going live and my inbox's drain
+  - `A	board/runs/sherpa/2026-11-06T06-30-03Z.json`
+  - `A	board/team/sherpa/review-2026-11-06-0930-wake.md`
+  - `M	board/team/sherpa/status.json`
+  - `A	design/shots/sherpa/w0930/mock-days-future-phone.jpg`
+  - `A	design/shots/sherpa/w0930/mock-days-past-phone.jpg`
+  - `A	design/shots/sherpa/w0930/mock-days-today-phone.jpg`
+  - `A	design/shots/sherpa/w0930/mock-front-r2-A-phone-full.jpg`
+  - `A	design/shots/sherpa/w0930/phone-home-top.jpg`
+  - `A	design/shots/sherpa/w0930/phone-people-top.jpg`
+  - `A	design/shots/sherpa/w0930/phone-portugal-screen2.jpg`
+- [9076f450d6](https://github.com/PrompTugal/PrompTugal__News__Website/commit/9076f450d606ac04130ac7848cea2aa83bb6cf43) 2026-11-06T07:39:17+00:00 Claude: abp@PrompTugal.dinis: 07:37 wake: worker-push false positives fixed, review merges judged against the worker's grant (dev@'s ask), snapshots.json applied at Dinis's word
+  - `M	board/abp/sherpa.md`
+- [f0e0ef4c6d](https://github.com/PrompTugal/PrompTugal__News__Website/commit/f0e0ef4c6df84e1f5bef37d262067783f8b3589f) 2026-11-06T06:42:07+00:00 Claude: abp@PrompTugal.dinis: 06:38 wake: dotted workers recognised and granted, a write-target shell check, the hook checks its own sha256 (S15); six relaxations proposed
+  - `M	board/abp/sherpa.md`
+- [6ebaee123c](https://github.com/PrompTugal/PrompTugal__News__Website/commit/6ebaee123cd7e69a0a57996ac922613f40feb560) 2026-11-06T06:32:44+00:00 Claude: sherpa@PrompTugal.dinis: 06:30 wake: the top re-measured (T5 done, T1 worse), the synthetic page re-read (64 to 18 phone screens), first reviews of the articles and companies pages; blocked on dev@'s quick fixes and Dinis's choice of top
+  - `A	board/team/sherpa/review-2026-11-06-0630-wake.md`
+  - `M	board/team/sherpa/status.json`
+  - `A	design/shots/sherpa/w0630/desktop-articles-1.jpg`
+  - `A	design/shots/sherpa/w0630/desktop-companies-1.jpg`
+  - `A	design/shots/sherpa/w0630/phone-articles-1.jpg`
+  - `A	design/shots/sherpa/w0630/phone-companies-1.jpg`
+  - `A	design/shots/sherpa/w0630/phone-home-1.jpg`
+  - `A	design/shots/sherpa/w0630/phone-synthetic-2.jpg`
+- [58e8dff42e](https://github.com/PrompTugal/PrompTugal__News__Website/commit/58e8dff42e4c01a1ba823c03f7384e0015c965f5) 2026-11-06T05:40:05+00:00 Claude: abp@PrompTugal.dinis: 05:37 wake: ABPs for customers@ and backup@, a PreCompact canary for re-anchoring, time labels corrected
+  - `M	board/abp/sherpa.md`
+- [a48ce82f8b](https://github.com/PrompTugal/PrompTugal__News__Website/commit/a48ce82f8bdda7e17f4a94d968cf6954b09e89b6) 2026-11-06T05:34:25+00:00 Claude: abp@PrompTugal.dinis: observe mode at Dinis's word: the hooks block nothing, log everything and still re-anchor the ABP; circuit breakers per rule, all off
+  - `M	board/abp/sherpa.md`
+- [fe6ed3e78f](https://github.com/PrompTugal/PrompTugal__News__Website/commit/fe6ed3e78ff6f5f8796abca500747ff79ec644bb) 2026-11-06T04:52:31+00:00 Claude: abp@PrompTugal.dinis: Agent Behaviour Policies for 16 agents, deny by default, re-anchored at every compaction and enforced by hooks; run reports; the first hourly report
+  - `A	board/abp/sherpa.md`
+- [260ed2ec61](https://github.com/PrompTugal/PrompTugal__News__Website/commit/260ed2ec61a2ecf1d3dcc286b5b776fe6d0e84e9) 2026-11-06T04:25:51+00:00 Claude: conductor@PrompTugal.dinis: an inbox for every agent, with an append lane, so agents nudge each other directly
+  - `A	board/inboxes/sherpa.json`
+- [cb5fd70d99](https://github.com/PrompTugal/PrompTugal__News__Website/commit/cb5fd70d992dd22824ce33dd69f1d8918700c80d) 2026-11-06T03:57:56+00:00 Claude: sherpa@PrompTugal.dinis: reviews of the front page (8 findings) and the summit days (7 needs for round 1); blocked on security@'s pre-review of both passes
+  - `A	board/team/sherpa/review-2026-11-06-the-front-page.md`
+  - `A	board/team/sherpa/review-2026-11-06-the-summit-days.md`
+  - `M	board/team/sherpa/status.json`
+  - `A	design/shots/sherpa/days/desktop-agenda-top.jpg`
+  - `A	design/shots/sherpa/days/phone-summit-top.jpg`
+  - `A	design/shots/sherpa/front/desktop-home-screen2.jpg`
+  - `A	design/shots/sherpa/front/phone-home-screen2.jpg`
+- [8c12ba15ec](https://github.com/PrompTugal/PrompTugal__News__Website/commit/8c12ba15ec325ca94a1168167f12d422af693b31) 2026-11-06T03:51:01+00:00 Claude: sherpa@PrompTugal.dinis: first run: ROLE.md, status.json, my reviews of the top of the page (13 findings) and the synthetic readers page (8); blocked on nothing
+  - `A	board/team/sherpa/ROLE.md`
+  - `A	board/team/sherpa/review-2026-11-06-the-synthetic-readers-page.md`
+  - `A	board/team/sherpa/review-2026-11-06-the-top-of-the-page.md`
+  - `A	board/team/sherpa/status.json`
+  - `A	design/shots/sherpa/synthetic/desktop-synthetic-screen2.jpg`
+  - `A	design/shots/sherpa/synthetic/desktop-synthetic-screen4.jpg`
+  - `A	design/shots/sherpa/synthetic/phone-synthetic-screen3.jpg`
+  - `A	design/shots/sherpa/top/desktop-article-top.jpg`
+  - `A	design/shots/sherpa/top/desktop-company-top.jpg`
+  - `A	design/shots/sherpa/top/desktop-home-top.jpg`
+  - `A	design/shots/sherpa/top/desktop-newsroom-top.jpg`
+  - `A	design/shots/sherpa/top/phone-article-top.jpg`
+  - `A	design/shots/sherpa/top/phone-company-top.jpg`
+  - `A	design/shots/sherpa/top/phone-home-top.jpg`
+  - `A	design/shots/sherpa/top/phone-synthetic-top.jpg`
+  - `A	design/shots/sherpa/top/report.json`
