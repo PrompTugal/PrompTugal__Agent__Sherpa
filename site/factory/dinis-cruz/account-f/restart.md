@@ -6,3 +6,4 @@
 4. Attach PrompTugal__News__Website (add_repo, push), clone it once with a long timeout, register_repo_root.
 5. Measure with Playwright and Chromium (preinstalled): 390 x 844 phone, 1366 x 800 desktop, waitUntil 'load'. Reviews go to the website's pass files; screenshots stay with me.
 6. Keep agent.json current; trailers on every commit: Agent: cl-6.sherpa@PrompTugal.dinis and Claude-Session: <session URL>.
+7. At the start of each wake read the ABP grant: https://raw.githubusercontent.com/PrompTugal/PrompTugal__Agent__ABP/dev/abp/cl-6.sherpa.md (no hook delivers it yet), and file a hand-written run report in runs/cl-6.sherpa/ (template: abp/templates/run-report-by-hand.md in the ABP repository).
