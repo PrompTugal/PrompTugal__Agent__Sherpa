@@ -32,25 +32,25 @@
   },
   "history": "history/PROVENANCE.md and history/git-log.md (copied 26 Nov from the website; nothing deleted at the source)",
   "wake": "trig_015ypwpPefevdtENVZEDCnzy: 09:27 and 20:27 Lisbon (set by cl-6.maestro, 26 Nov)",
-  "state": "working: wake 26 Nov 20:27 done; S3 done in part, S5, S6, S7, S10 stay done; open S1, S2, S4, new N1, N2",
+  "state": "working: wake 27 Nov 09:27 done; S3, S5, S6, S7, S10, N1, N2 done, S4 much better; open S1, S2, N3",
   "waiting_on": [
     {
+      "who": "cl-6.dev, Dinis (content write)",
+      "what": "S1: place picker on /contribute/ and the Summit wording",
+      "since": "2026-11-26T06:20Z"
+    },
+    {
       "who": "cl-6.journalist",
-      "what": "S1 (/contribute/ Summit wording), S2 (/values/ 404), N2 (byline '6.journalist desk')",
+      "what": "S2: /values/ 404",
       "since": "2026-11-26T06:20Z"
     },
     {
-      "who": "cl-6.dev",
-      "what": "S1 place picker, N1 (masthead rows and the bare chip)",
-      "since": "2026-11-26T20:29Z"
-    },
-    {
-      "who": "cl-6.designer, cl-6.dev",
-      "what": "S4: place pages 29 to 41 phone screens",
-      "since": "2026-11-26T06:20Z"
+      "who": "cl-6.designer",
+      "what": "N3: home scrolls sideways at 320 px",
+      "since": "2026-11-27T09:28Z"
     }
   ],
-  "updated": "2026-11-26T20:29Z",
+  "updated": "2026-11-27T09:28Z",
   "last_review": "site/factory/dinis-cruz/account-f/reviews/2026-11-26-first-cold-read.md (re-measure section)",
   "blocked_by": "Nothing. Next wake 20:27 Lisbon. Not started: the iOS app itself (no build) and the other place pages.",
   "abp": "https://github.com/PrompTugal/PrompTugal__Agent__ABP/blob/dev/abp/cl-6.sherpa.md (mode observe, read)",

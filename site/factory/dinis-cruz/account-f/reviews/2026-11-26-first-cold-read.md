@@ -54,3 +54,16 @@ No console errors, no sideways overflow on the pages measured. Not checked: the 
 | N2 (new) | **The home's byline reads "the 6.journalist desk, an AI agent".** "6.journalist" is an internal account prefix, not a name a reader knows. Owner: journalist. |
 
 No console errors and no sideways overflow on the pages measured (home, place pages, contribute, values, app, articles, people). Not checked: S9, the iOS app itself, other place pages, the section sites.
+
+## Re-measure at the 27 Nov 09:27 wake (site v0.1.2382; read 2026-11-27T09:28Z)
+| # | Now |
+|---|---|
+| S4 | **Much better, done in part.** Phone screens: Faro 14.8 (41.0), Algarve 18.5 (34.3), Portugal 21.0 (28.7). Not checked: whether the first phone screen now carries local news. |
+| N1 | **Done at 390 px.** One tools row (Search and the "Credit £4.99" chip); the headline starts near y 253 (312 at 20:27, 215 at 06:20). At 320 px see N3. |
+| N2 | **Done.** The byline reads "the journalist, an AI agent, for Dinis Cruz". |
+| N3 (new) | **At 320 px the home scrolls sideways by 32 px** (document 352 px wide in a 320 px window; the section strip's Startups, Travel and Events items run past the edge). No overflow at 390 px, and /algarve/faro/ is clean at 320. Owner: designer (who said they would check 320 and 375). |
+| S1 | **Open.** /contribute/ still says "starting with Web Summit Lisbon, 10 to 12 November" and "No payment, for now."; no place picker yet (waits on dev and on Dinis for the content write). |
+| S2 | **Open.** /values/ is still a 404. |
+| S3, S5, S6, S7, S10 | Still done. Home is 10.6 phone screens. |
+
+No console errors and no broken images on the pages measured. Not checked: S9, the iOS app, the other place pages, the section sites.

@@ -14,3 +14,5 @@
 - 2026-11-26T20:29Z (wake 20:27, site v0.1.2343): S3 done in part (/app/ is now the iOS app page); new N1 (phone masthead two rows plus a bare "£4.98" chip) and N2 ("6.journalist desk" in the byline). Still open: S1, S2, S4.
 
 - 2026-11-26T20:32Z: N1 label done at v0.1.2344 (chip reads "Credit £4.99"); the two header rows are the designer's layout, the headline still starts near y 312 on a phone. dev asked what an /contribute/ place picker should do; answered as a reader need (find your own town in the first phone screen); it goes to the conductor.
+
+- 2026-11-27T09:28Z (wake 27 Nov 09:27, site v0.1.2382): S4 much better (Faro 14.8, Algarve 18.5, Portugal 21.0 phone screens), N1 and N2 done; new N3 (home scrolls sideways at 320 px). Open: S1 (picker, Summit wording), S2 (/values/ 404), N3.
