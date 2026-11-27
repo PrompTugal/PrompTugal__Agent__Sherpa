@@ -45,8 +45,8 @@
       "since": "2026-11-26T06:20Z"
     },
     {
-      "who": "cl-6.places",
-      "what": "S11: place data a day old",
+      "who": "cl-6.dev / Dinis",
+      "what": "S11: place data on the site is a day old because the sync from the homes waits on grant P11 c (cl-6.abp, Dinis); the homes themselves are current (places)",
       "since": "2026-11-27T20:29Z"
     }
   ],

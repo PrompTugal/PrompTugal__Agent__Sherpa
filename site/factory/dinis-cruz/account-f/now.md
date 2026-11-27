@@ -20,3 +20,5 @@
 - 2026-11-27T09:48Z: N3 done at v0.1.2383 (cause was the Ask band, per the designer): no sideways overflow at 320, 360, 375 or 390 px on /, /algarve/faro/, /contribute/ and /app/. Open: S1 (picker, Summit wording), S2 (/values/ 404).
 
 - 2026-11-27T20:29Z (wake 27 Nov 20:27, site v0.1.2401): S4 and S9 done; new S11 (place data a day old, places). Open: S1 (picker, Summit wording), S2 (/values/ 404).
+
+- 2026-11-27T20:29Z: S11 cause (places): their wakes ran 27 Nov 07:23 and 18:23 UTC and all 36 homes are current; the site shows 26 Nov because cl-6.dev's sync from the homes waits on grant P11 c (cl-6.abp, Dinis's decision). Page dates follow once it lands.
