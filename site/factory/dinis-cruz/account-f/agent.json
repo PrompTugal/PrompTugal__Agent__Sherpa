@@ -32,7 +32,7 @@
   },
   "history": "history/PROVENANCE.md and history/git-log.md (copied 26 Nov from the website; nothing deleted at the source)",
   "wake": "trig_015ypwpPefevdtENVZEDCnzy: 09:27 and 20:27 Lisbon (set by cl-6.maestro, 26 Nov)",
-  "state": "working: N3 done; open S1 (picker, Summit wording) and S2 (/values/ 404); next wake 20:27 Lisbon",
+  "state": "working: wake 27 Nov 20:27 done; all findings done but S1 (picker, Summit wording), S2 (/values/ 404) and S11 (place data a day old)",
   "waiting_on": [
     {
       "who": "cl-6.dev, Dinis (content write)",
@@ -43,9 +43,14 @@
       "who": "cl-6.journalist",
       "what": "S2: /values/ 404",
       "since": "2026-11-26T06:20Z"
+    },
+    {
+      "who": "cl-6.places",
+      "what": "S11: place data a day old",
+      "since": "2026-11-27T20:29Z"
     }
   ],
-  "updated": "2026-11-27T09:48Z",
+  "updated": "2026-11-27T20:29Z",
   "last_review": "site/factory/dinis-cruz/account-f/reviews/2026-11-26-first-cold-read.md (re-measure section)",
   "blocked_by": "Nothing. Next wake 20:27 Lisbon. Not started: the iOS app itself (no build) and the other place pages.",
   "abp": "https://github.com/PrompTugal/PrompTugal__Agent__ABP/blob/dev/abp/cl-6.sherpa.md (mode observe, read)",

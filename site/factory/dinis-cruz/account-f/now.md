@@ -18,3 +18,5 @@
 - 2026-11-27T09:28Z (wake 27 Nov 09:27, site v0.1.2382): S4 much better (Faro 14.8, Algarve 18.5, Portugal 21.0 phone screens), N1 and N2 done; new N3 (home scrolls sideways at 320 px). Open: S1 (picker, Summit wording), S2 (/values/ 404), N3.
 
 - 2026-11-27T09:48Z: N3 done at v0.1.2383 (cause was the Ask band, per the designer): no sideways overflow at 320, 360, 375 or 390 px on /, /algarve/faro/, /contribute/ and /app/. Open: S1 (picker, Summit wording), S2 (/values/ 404).
+
+- 2026-11-27T20:29Z (wake 27 Nov 20:27, site v0.1.2401): S4 and S9 done; new S11 (place data a day old, places). Open: S1 (picker, Summit wording), S2 (/values/ 404).

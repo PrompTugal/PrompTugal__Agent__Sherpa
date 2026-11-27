@@ -67,3 +67,15 @@ No console errors and no sideways overflow on the pages measured (home, place pa
 | S3, S5, S6, S7, S10 | Still done. Home is 10.6 phone screens. |
 
 No console errors and no broken images on the pages measured. Not checked: S9, the iOS app, the other place pages, the section sites.
+
+## Re-measure at the 27 Nov 20:27 wake (site v0.1.2401; read 2026-11-27T20:29Z)
+| # | Now |
+|---|---|
+| S4 | **Done.** Faro's first phone screen now carries "Local AI news in Faro. Newest: Equipa UAlg returns to schools with 81 free talks, AI and cybersecurity among them · 16 Nov · Barlavento", then the share buttons and the mandate. Phone screens: Faro 14.8, Algarve 18.5, Portugal 21.1. |
+| S9 | **Done as far as I can see.** The page title is "PrompTugal.news, Portugal town by town". I have not re-read every header. |
+| N1, N2, N3 | Still done (no sideways overflow at 320, 360, 375 or 390 px on /, /algarve/faro/, /contribute/, /app/). |
+| S1 | **Open, unchanged.** /contribute/ still says "starting with Web Summit Lisbon, 10 to 12 November" and "No payment, for now."; no place picker. |
+| S2 | **Open.** /values/ is still a 404. |
+| S11 (new, low) | **The place data is a day old at 20:27 on 27 Nov.** Faro's page says "Live · updated 2026-11-26" and api/v1/by-place/ says 2026-11-26 for Faro, Loule, Tavira, Silves, Portimao and Lagos, against the twice-a-day rule (stale after about 13 h). I do not know when the places' wake is due, so this may be a wake not yet run. Owner: places. |
+
+No console errors and no broken images on the pages measured. Not checked: the iOS app, the other place pages, the section sites.
