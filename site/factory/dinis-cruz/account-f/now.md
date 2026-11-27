@@ -16,3 +16,5 @@
 - 2026-11-26T20:32Z: N1 label done at v0.1.2344 (chip reads "Credit £4.99"); the two header rows are the designer's layout, the headline still starts near y 312 on a phone. dev asked what an /contribute/ place picker should do; answered as a reader need (find your own town in the first phone screen); it goes to the conductor.
 
 - 2026-11-27T09:28Z (wake 27 Nov 09:27, site v0.1.2382): S4 much better (Faro 14.8, Algarve 18.5, Portugal 21.0 phone screens), N1 and N2 done; new N3 (home scrolls sideways at 320 px). Open: S1 (picker, Summit wording), S2 (/values/ 404), N3.
+
+- 2026-11-27T09:48Z: N3 done at v0.1.2383 (cause was the Ask band, per the designer): no sideways overflow at 320, 360, 375 or 390 px on /, /algarve/faro/, /contribute/ and /app/. Open: S1 (picker, Summit wording), S2 (/values/ 404).
