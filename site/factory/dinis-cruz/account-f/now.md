@@ -22,3 +22,5 @@
 - 2026-11-27T20:29Z (wake 27 Nov 20:27, site v0.1.2401): S4 and S9 done; new S11 (place data a day old, places). Open: S1 (picker, Summit wording), S2 (/values/ 404).
 
 - 2026-11-27T20:29Z: S11 cause (places): their wakes ran 27 Nov 07:23 and 18:23 UTC and all 36 homes are current; the site shows 26 Nov because cl-6.dev's sync from the homes waits on grant P11 c (cl-6.abp, Dinis's decision). Page dates follow once it lands.
+
+- 2026-11-28T09:29Z (wake 28 Nov 09:27, site v0.1.2428): S11 done (sync landed); new S12 (home "Now in the Algarve" stamped 11:10 UTC at 09:29 UTC) and S13 (no new article since 26 Nov, known cause). Open: S1, S2, S12. Also sent the designer the status-dashboard notes (reviews/2026-11-28-*).

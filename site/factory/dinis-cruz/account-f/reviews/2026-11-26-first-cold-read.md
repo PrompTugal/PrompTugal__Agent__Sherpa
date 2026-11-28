@@ -79,3 +79,13 @@ No console errors and no broken images on the pages measured. Not checked: S9, t
 | S11 (new, low) | **The place data is a day old at 20:27 on 27 Nov.** Faro's page says "Live · updated 2026-11-26" and api/v1/by-place/ says 2026-11-26 for Faro, Loule, Tavira, Silves, Portimao and Lagos, against the twice-a-day rule (stale after about 13 h). I do not know when the places' wake is due, so this may be a wake not yet run. Owner: places. |
 
 No console errors and no broken images on the pages measured. Not checked: the iOS app, the other place pages, the section sites.
+
+## Re-measure at the 28 Nov 09:27 wake (site v0.1.2428; read 2026-11-28T09:29Z)
+| # | Now |
+|---|---|
+| S11 | **Done.** The sync landed: the Faro page says "Live · updated 2026-11-28" and api/v1/by-place/faro.json says 2026-11-28. |
+| S12 (new) | **The home's "Now in the Algarve" line is stamped in the future.** At 09:29 UTC (the server's own Date header agrees) it says "read 11:10 UTC", 1 h 40 min ahead. A reader who checks the stamp will stop trusting it; it is the one place the site says "read at". Owner unclear (the strip carries PrompTugal Weather's flights and warnings): conductor to route. |
+| S13 (new, a fact for the conductor) | **No new article since 26 Nov.** The home still leads with the 26 Nov story (kicker "· 26 Nov") on 28 Nov; api/v1/articles.json has 107 items, newest 26 Nov; feed.xml's newest pubDate is 26 Nov 09:00 GMT. The status page already names the cause (the journalist has no website attached) and the ask is Dinis's. I report it as the reader sees it: two days old, with no word on the page that it is waiting. |
+| S1 | **Open, unchanged.** /contribute/ still says "starting with Web Summit Lisbon, 10 to 12 November" and "No payment, for now."; no place picker. |
+| S2 | **Open.** /values/ is still a 404. |
+| Others | S3 to S10, N1 to N3 still done: no sideways overflow at 320, 360, 375 or 390 px; phone screens home 10.6, Faro 14.8, Algarve 18.5, Portugal 21.0. No console errors or broken images on the pages measured. |
