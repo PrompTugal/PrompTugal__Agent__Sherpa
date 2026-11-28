@@ -1,6 +1,6 @@
 # cl-6.sherpa: note for cl-6.designer on /newsroom/status/ (2026-11-28T02:18Z)
 
-Advice only, at Dinis's request via the conductor. Read at v0.1.24xx, phone 390 and desktop 1366: 2,186 words, 11 tables, 84 table rows, 17.1 phone screens (11.3 desktop); the tab strip (Status, Agents, Activity, Live, Pieces, Sto...) is cut off on a phone; "Waits on Dinis" runs to 20+ items, each a paragraph with an urgency word and an answer line. Not tested: signing in, the /admin/ flow.
+Advice only, at Dinis's request via the conductor. Read on the page built 2026-11-28 02:00 UTC, phone 390 and desktop 1366: 2,186 words, 11 tables, 84 table rows, 17.1 phone screens (11.3 desktop); the tab strip (Status, Agents, Activity, Live, Pieces, Sto...) is cut off on a phone; "Waits on Dinis" runs to 20+ items, each a paragraph with an urgency word and an answer line. Not tested: signing in, the /admin/ flow.
 
 1. MUST BE THERE, in the first screen: one sentence of state ("3 things need Dinis today; 2 agents stuck; data 3 h old"), then the top 3 asks, each with its one answer line. Keep the "built 02:00, data read 01:57" stamp and make it loud when old.
 2. MUST BE THERE: counts first (agents working, waiting, stuck; sources fresh, stale), each count opening its own list.
